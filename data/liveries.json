@@ -1,0 +1,1670 @@
+{
+  "quad-jet": {
+    "H": [
+      {
+        "icao_airline": "",
+        "title": "FFAI_QJ - Default"
+      },
+      {
+        "icao_airline": "CCA",
+        "title": "FFAI_QJ - Air China"
+      },
+      {
+        "icao_airline": "CAO",
+        "title": "FFAI_QJ - Air China Cargo"
+      },
+      {
+        "icao_airline": "CPA",
+        "title": "FFAI_QJ - Cathay Pacific"
+      },
+      {
+        "icao_airline": "UAE",
+        "title": "FFAI_QJ - Emirates"
+      },
+      {
+        "icao_airline": "QFA",
+        "title": "FFAI_QJ - Qantas"
+      },
+      {
+        "icao_airline": "QTR",
+        "title": "FFAI_QJ - Qatar Airways"
+      },
+      {
+        "icao_airline": "SIA",
+        "title": "FFAI_QJ - Singapore Airlines"
+      },
+      {
+        "icao_airline": "UPS",
+        "title": "FFAI_QJ - UPS Airlines"
+      },
+      {
+        "icao_airline": "DLH",
+        "title": "FFAI_QJ - Lufthansa"
+      },
+      {
+        "icao_airline": "BAW",
+        "title": "FFAI_QJ - British Airways"
+      },
+      {
+        "icao_airline": "AFR",
+        "title": "FFAI_QJ - Air France"
+      },
+      {
+        "icao_airline": "ANA",
+        "title": "FFAI_QJ - All Nippon Airways"
+      }
+    ]
+  },
+  "regional-jet": {
+    "L": [
+      {
+        "icao_airline": "",
+        "title": "FFAI_RJL - Default"
+      },
+      {
+        "icao_airline": "AHO",
+        "title": "FFAI_RJL - Air Hamburg"
+      },
+      {
+        "icao_airline": "ANE",
+        "title": "FFAI_RJL - Iberia Regional"
+      },
+      {
+        "icao_airline": "AOK",
+        "title": "FFAI_RJL - Aero-Jet"
+      },
+      {
+        "icao_airline": "ASH",
+        "title": "FFAI_RJL - Mesa Airlines (AAL)"
+      },
+      {
+        "icao_airline": "ASH",
+        "title": "FFAI_RJL - Mesa Airlines (UAL)"
+      },
+      {
+        "icao_airline": "ASP",
+        "title": "FFAI_RJL - AirSprint"
+      },
+      {
+        "icao_airline": "AWI",
+        "title": "FFAI_RJL - Air Wisconsin (United)"
+      },
+      {
+        "icao_airline": "CLH",
+        "title": "FFAI_RJL - Lufthansa CityLine"
+      },
+      {
+        "icao_airline": "DPJ",
+        "title": "FFAI_RJL - Wheels Up Private Jets"
+      },
+      {
+        "icao_airline": "ECJ",
+        "title": "FFAI_RJL - East Coast Jets"
+      },
+      {
+        "icao_airline": "EDJ",
+        "title": "FFAI_RJL - Jet Edge"
+      },
+      {
+        "icao_airline": "EDV",
+        "title": "FFAI_RJL - Endeavor Air (Delta)"
+      },
+      {
+        "icao_airline": "EJA",
+        "title": "FFAI_RJL - NetJets Aviation"
+      },
+      {
+        "icao_airline": "ENY",
+        "title": "FFAI_RJL - Envoy Air (AAL)"
+      },
+      {
+        "icao_airline": "ERY",
+        "title": "FFAI_RJL - Sky Quest"
+      },
+      {
+        "icao_airline": "FTH",
+        "title": "FFAI_RJL - Mountain Aviation"
+      },
+      {
+        "icao_airline": "GAJ",
+        "title": "FFAI_RJL - Wheels Up Gama Aviation"
+      },
+      {
+        "icao_airline": "GDS",
+        "title": "FFAI_RJL - Steelman Aviation"
+      },
+      {
+        "icao_airline": "GJS",
+        "title": "FFAI_RJL - GoJet Airlines (United)"
+      },
+      {
+        "icao_airline": "HOP",
+        "title": "FFAI_RJL - Air France Hop"
+      },
+      {
+        "icao_airline": "JIA",
+        "title": "FFAI_RJL - PSA Airlines (AAL)"
+      },
+      {
+        "icao_airline": "JZA",
+        "title": "FFAI_RJL - Air Canada Express (Jazz)"
+      },
+      {
+        "icao_airline": "LOG",
+        "title": "FFAI_RJL - Loganair"
+      },
+      {
+        "icao_airline": "LXJ",
+        "title": "FFAI_RJL - Flexjet"
+      },
+      {
+        "icao_airline": "NJE",
+        "title": "FFAI_RJL - NetJets Europe"
+      },
+      {
+        "icao_airline": "PDT",
+        "title": "FFAI_RJL - Piedmont Airlines (AAL)"
+      },
+      {
+        "icao_airline": "PXT",
+        "title": "FFAI_RJL - Pacific Coast Jet"
+      },
+      {
+        "icao_airline": "RGY",
+        "title": "FFAI_RJL - Regency"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_RJL - SkyWest Airlines (AAL)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_RJL - SkyWest Airlines (DAL)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_RJL - SkyWest Airlines (Alaska)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_RJL - SkyWest Airlines (UAL)"
+      },
+      {
+        "icao_airline": "UCA",
+        "title": "FFAI_RJL - CommutAir (United)"
+      },
+      {
+        "icao_airline": "VJT",
+        "title": "FFAI_RJL - VistaJet"
+      },
+      {
+        "icao_airline": "XOJ",
+        "title": "FFAI_RJL - XOJet"
+      }
+    ],
+    "M": [
+      {
+        "icao_airline": "",
+        "title": "FFAI_RJM - Default"
+      },
+      {
+        "icao_airline": "AHO",
+        "title": "FFAI_RJM - Air Hamburg"
+      },
+      {
+        "icao_airline": "ANE",
+        "title": "FFAI_RJM - Iberia Regional"
+      },
+      {
+        "icao_airline": "AOK",
+        "title": "FFAI_RJM - Aero-Jet"
+      },
+      {
+        "icao_airline": "ASH",
+        "title": "FFAI_RJM - Mesa Airlines (AAL)"
+      },
+      {
+        "icao_airline": "ASH",
+        "title": "FFAI_RJM - Mesa Airlines (UAL)"
+      },
+      {
+        "icao_airline": "ASP",
+        "title": "FFAI_RJM - AirSprint"
+      },
+      {
+        "icao_airline": "AWI",
+        "title": "FFAI_RJM - Air Wisconsin (United)"
+      },
+      {
+        "icao_airline": "CLH",
+        "title": "FFAI_RJM - Lufthansa CityLine"
+      },
+      {
+        "icao_airline": "DPJ",
+        "title": "FFAI_RJM - Wheels Up Private Jets"
+      },
+      {
+        "icao_airline": "ECJ",
+        "title": "FFAI_RJM - East Coast Jets"
+      },
+      {
+        "icao_airline": "EDJ",
+        "title": "FFAI_RJM - Jet Edge"
+      },
+      {
+        "icao_airline": "EDV",
+        "title": "FFAI_RJM - Endeavor Air (Delta)"
+      },
+      {
+        "icao_airline": "EJA",
+        "title": "FFAI_RJM - NetJets Aviation"
+      },
+      {
+        "icao_airline": "ENY",
+        "title": "FFAI_RJM - Envoy Air (AAL)"
+      },
+      {
+        "icao_airline": "ERY",
+        "title": "FFAI_RJM - Sky Quest"
+      },
+      {
+        "icao_airline": "FTH",
+        "title": "FFAI_RJM - Mountain Aviation"
+      },
+      {
+        "icao_airline": "GAJ",
+        "title": "FFAI_RJM - Wheels Up Gama Aviation"
+      },
+      {
+        "icao_airline": "GDS",
+        "title": "FFAI_RJM - Steelman Aviation"
+      },
+      {
+        "icao_airline": "GJS",
+        "title": "FFAI_RJM - GoJet Airlines (United)"
+      },
+      {
+        "icao_airline": "HOP",
+        "title": "FFAI_RJM - Air France Hop"
+      },
+      {
+        "icao_airline": "JIA",
+        "title": "FFAI_RJM - PSA Airlines (AAL)"
+      },
+      {
+        "icao_airline": "JZA",
+        "title": "FFAI_RJM - Air Canada Express (Jazz)"
+      },
+      {
+        "icao_airline": "LOG",
+        "title": "FFAI_RJM - Loganair"
+      },
+      {
+        "icao_airline": "LXJ",
+        "title": "FFAI_RJM - Flexjet"
+      },
+      {
+        "icao_airline": "NJE",
+        "title": "FFAI_RJM - NetJets Europe"
+      },
+      {
+        "icao_airline": "PDT",
+        "title": "FFAI_RJM - Piedmont Airlines (AAL)"
+      },
+      {
+        "icao_airline": "PXT",
+        "title": "FFAI_RJM - Pacific Coast Jet"
+      },
+      {
+        "icao_airline": "RGY",
+        "title": "FFAI_RJM - Regency"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_RJM - SkyWest Airlines (AAL)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_RJM - SkyWest Airlines (DAL)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_RJM - SkyWest Airlines (Alaska)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_RJM - SkyWest Airlines (UAL)"
+      },
+      {
+        "icao_airline": "UCA",
+        "title": "FFAI_RJM - CommutAir (United)"
+      },
+      {
+        "icao_airline": "VJT",
+        "title": "FFAI_RJM - VistaJet"
+      },
+      {
+        "icao_airline": "XOJ",
+        "title": "FFAI_RJM - XOJet"
+      }
+    ]
+  },
+  "twin-jet": {
+    "H": [
+      {
+        "icao_airline": "",
+        "title": "FFAI_TJH - Default"
+      },
+      {
+        "icao_airline": "AAL",
+        "title": "FFAI_TJH - American Airlines"
+      },
+      {
+        "icao_airline": "AAR",
+        "title": "FFAI_TJH - Asiana Airlines"
+      },
+      {
+        "icao_airline": "AAY",
+        "title": "FFAI_TJH - Allegiant Air"
+      },
+      {
+        "icao_airline": "ACA",
+        "title": "FFAI_TJH - Air Canada"
+      },
+      {
+        "icao_airline": "AEE",
+        "title": "FFAI_TJH - Aegean Airlines"
+      },
+      {
+        "icao_airline": "AFL",
+        "title": "FFAI_TJH - Aeroflot"
+      },
+      {
+        "icao_airline": "AFR",
+        "title": "FFAI_TJH - Air France"
+      },
+      {
+        "icao_airline": "AHK",
+        "title": "FFAI_TJH - Air Hong Kong (DHL)"
+      },
+      {
+        "icao_airline": "AIC",
+        "title": "FFAI_TJH - Air India"
+      },
+      {
+        "icao_airline": "AJX",
+        "title": "FFAI_TJH - Air Japan (ANA)"
+      },
+      {
+        "icao_airline": "AKX",
+        "title": "FFAI_TJH - ANA Wings"
+      },
+      {
+        "icao_airline": "AMX",
+        "title": "FFAI_TJH - AeroMexico"
+      },
+      {
+        "icao_airline": "ANA",
+        "title": "FFAI_TJH - All Nippon Airways"
+      },
+      {
+        "icao_airline": "ANE",
+        "title": "FFAI_TJH - Iberia Regional"
+      },
+      {
+        "icao_airline": "ANZ",
+        "title": "FFAI_TJH - Air New Zealand"
+      },
+      {
+        "icao_airline": "ARE",
+        "title": "FFAI_TJH - LATAM Colombia"
+      },
+      {
+        "icao_airline": "ASA",
+        "title": "FFAI_TJH - Alaska Airlines"
+      },
+      {
+        "icao_airline": "ASD",
+        "title": "FFAI_TJH - Air Sinai (Egypt Air)"
+      },
+      {
+        "icao_airline": "ASH",
+        "title": "FFAI_TJH - Mesa Airlines (AAL)"
+      },
+      {
+        "icao_airline": "ASH",
+        "title": "FFAI_TJH - Mesa Airlines (UAL)"
+      },
+      {
+        "icao_airline": "AUA",
+        "title": "FFAI_TJH - Austrian Airlines"
+      },
+      {
+        "icao_airline": "AUI",
+        "title": "FFAI_TJH - Ukraine International"
+      },
+      {
+        "icao_airline": "AXB",
+        "title": "FFAI_TJH - Air India Express"
+      },
+      {
+        "icao_airline": "AZA",
+        "title": "FFAI_TJH - Alitalia"
+      },
+      {
+        "icao_airline": "AZU",
+        "title": "FFAI_TJH - Azul Brazilian Airlines"
+      },
+      {
+        "icao_airline": "BAW",
+        "title": "FFAI_TJH - British Airways"
+      },
+      {
+        "icao_airline": "BCS",
+        "title": "FFAI_TJH - European Air Transport (DHL)"
+      },
+      {
+        "icao_airline": "BEL",
+        "title": "FFAI_TJH - Brussels Airlines"
+      },
+      {
+        "icao_airline": "BLA",
+        "title": "FFAI_TJH - Blue Air"
+      },
+      {
+        "icao_airline": "BOX",
+        "title": "FFAI_TJH - AeroLogic"
+      },
+      {
+        "icao_airline": "CAL",
+        "title": "FFAI_TJH - China Airlines"
+      },
+      {
+        "icao_airline": "CCA",
+        "title": "FFAI_TJH - Air China"
+      },
+      {
+        "icao_airline": "CCD",
+        "title": "FFAI_TJH - Air China Dalian"
+      },
+      {
+        "icao_airline": "CDG",
+        "title": "FFAI_TJH - Shandong Airlines"
+      },
+      {
+        "icao_airline": "CES",
+        "title": "FFAI_TJH - China Eastern Airlines"
+      },
+      {
+        "icao_airline": "CHH",
+        "title": "FFAI_TJH - Hainan Airlines"
+      },
+      {
+        "icao_airline": "CLH",
+        "title": "FFAI_TJH - Lufthansa CityLine"
+      },
+      {
+        "icao_airline": "CLW",
+        "title": "FFAI_TJH - LOT Charters"
+      },
+      {
+        "icao_airline": "CMN",
+        "title": "FFAI_TJH - Air China Inner Mongolia"
+      },
+      {
+        "icao_airline": "CPA",
+        "title": "FFAI_TJH - Cathay Pacific"
+      },
+      {
+        "icao_airline": "CQH",
+        "title": "FFAI_TJH - Spring Airlines"
+      },
+      {
+        "icao_airline": "CSC",
+        "title": "FFAI_TJH - Sichuan Airlines"
+      },
+      {
+        "icao_airline": "CSN",
+        "title": "FFAI_TJH - China Southern Airlines"
+      },
+      {
+        "icao_airline": "CSZ",
+        "title": "FFAI_TJH - Shenzhen Airlines"
+      },
+      {
+        "icao_airline": "CYL",
+        "title": "FFAI_TJH - Alitalia CityLiner"
+      },
+      {
+        "icao_airline": "DAE",
+        "title": "FFAI_TJH - DHL Aero Expreso"
+      },
+      {
+        "icao_airline": "DAL",
+        "title": "FFAI_TJH - Delta Air Lines"
+      },
+      {
+        "icao_airline": "DHK",
+        "title": "FFAI_TJH - DHL Air UK"
+      },
+      {
+        "icao_airline": "DHX",
+        "title": "FFAI_TJH - DHL International Aviation ME"
+      },
+      {
+        "icao_airline": "DKH",
+        "title": "FFAI_TJH - Juneyao Airlines"
+      },
+      {
+        "icao_airline": "DLH",
+        "title": "FFAI_TJH - Lufthansa"
+      },
+      {
+        "icao_airline": "EIN",
+        "title": "FFAI_TJH - Aer Lingus"
+      },
+      {
+        "icao_airline": "EJU",
+        "title": "FFAI_TJH - easyJet Europe"
+      },
+      {
+        "icao_airline": "ENY",
+        "title": "FFAI_TJH - Envoy Air (AAL)"
+      },
+      {
+        "icao_airline": "ETD",
+        "title": "FFAI_TJH - Etihad Airways"
+      },
+      {
+        "icao_airline": "ETH",
+        "title": "FFAI_TJH - Ethiopian Airlines"
+      },
+      {
+        "icao_airline": "EZS",
+        "title": "FFAI_TJH - easyJet Switzerland"
+      },
+      {
+        "icao_airline": "EZY",
+        "title": "FFAI_TJH - easyJet UK"
+      },
+      {
+        "icao_airline": "FCM",
+        "title": "FFAI_TJH - Nordic Regional Airlines (Finnair)"
+      },
+      {
+        "icao_airline": "FDX",
+        "title": "FFAI_TJH - FedEx"
+      },
+      {
+        "icao_airline": "FFT",
+        "title": "FFAI_TJH - Frontier"
+      },
+      {
+        "icao_airline": "FIN",
+        "title": "FFAI_TJH - Finnair"
+      },
+      {
+        "icao_airline": "GDC",
+        "title": "FFAI_TJH - Grand China Air"
+      },
+      {
+        "icao_airline": "GEC",
+        "title": "FFAI_TJH - Lufthansa Cargo"
+      },
+      {
+        "icao_airline": "HOP",
+        "title": "FFAI_TJH - Air France Hop"
+      },
+      {
+        "icao_airline": "IBE",
+        "title": "FFAI_TJH - Iberia"
+      },
+      {
+        "icao_airline": "IBK",
+        "title": "FFAI_TJH - Norwegian Air International"
+      },
+      {
+        "icao_airline": "IBS",
+        "title": "FFAI_TJH - Iberia Express"
+      },
+      {
+        "icao_airline": "IGO",
+        "title": "FFAI_TJH - IndiGo"
+      },
+      {
+        "icao_airline": "IRA",
+        "title": "FFAI_TJH - Iran Air"
+      },
+      {
+        "icao_airline": "IZM",
+        "title": "FFAI_TJH - Izmir Airlines (Pegasus)"
+      },
+      {
+        "icao_airline": "JAC",
+        "title": "FFAI_TJH - Japan Air Commuter"
+      },
+      {
+        "icao_airline": "JAL",
+        "title": "FFAI_TJH - Japan Airlines"
+      },
+      {
+        "icao_airline": "JBU",
+        "title": "FFAI_TJH - JetBlue"
+      },
+      {
+        "icao_airline": "JJP",
+        "title": "FFAI_TJH - Jetstar Japan"
+      },
+      {
+        "icao_airline": "JLJ",
+        "title": "FFAI_TJH - J-Air"
+      },
+      {
+        "icao_airline": "JSA",
+        "title": "FFAI_TJH - Jetstar Asia"
+      },
+      {
+        "icao_airline": "JST",
+        "title": "FFAI_TJH - Jetstar"
+      },
+      {
+        "icao_airline": "JTA",
+        "title": "FFAI_TJH - Japan Transocean Air"
+      },
+      {
+        "icao_airline": "JZA",
+        "title": "FFAI_TJH - Air Canada Express (Jazz)"
+      },
+      {
+        "icao_airline": "KAC",
+        "title": "FFAI_TJH - Kuwait Airways"
+      },
+      {
+        "icao_airline": "KAL",
+        "title": "FFAI_TJH - Korean Air"
+      },
+      {
+        "icao_airline": "KLC",
+        "title": "FFAI_TJH - KLM Cityhopper"
+      },
+      {
+        "icao_airline": "KLM",
+        "title": "FFAI_TJH - KLM"
+      },
+      {
+        "icao_airline": "KNA",
+        "title": "FFAI_TJH - Kunming Airlines"
+      },
+      {
+        "icao_airline": "LAE",
+        "title": "FFAI_TJH - LATAM Cargo Colombia"
+      },
+      {
+        "icao_airline": "LAP",
+        "title": "FFAI_TJH - LATAM Paraguay"
+      },
+      {
+        "icao_airline": "LCO",
+        "title": "FFAI_TJH - LATAM Cargo Chile"
+      },
+      {
+        "icao_airline": "LLR",
+        "title": "FFAI_TJH - Alliance Air (Air India)"
+      },
+      {
+        "icao_airline": "LNE",
+        "title": "FFAI_TJH - LATAM Equador"
+      },
+      {
+        "icao_airline": "LNI",
+        "title": "FFAI_TJH - Lion Air"
+      },
+      {
+        "icao_airline": "LOT",
+        "title": "FFAI_TJH - LOT Polish Airlines"
+      },
+      {
+        "icao_airline": "LPE",
+        "title": "FFAI_TJH - LATAM Peru"
+      },
+      {
+        "icao_airline": "LTG",
+        "title": "FFAI_TJH - LATAM Cargo Brasil"
+      },
+      {
+        "icao_airline": "LXP",
+        "title": "FFAI_TJH - LATAM Express"
+      },
+      {
+        "icao_airline": "MAY",
+        "title": "FFAI_TJH - Malta Air (Ryanair)"
+      },
+      {
+        "icao_airline": "MBB",
+        "title": "FFAI_TJH - Air Manas (Pegasus)"
+      },
+      {
+        "icao_airline": "MSR",
+        "title": "FFAI_TJH - Egypt Air"
+      },
+      {
+        "icao_airline": "MXD",
+        "title": "FFAI_TJH - Malindo Air"
+      },
+      {
+        "icao_airline": "NAN",
+        "title": "FFAI_TJH - Norwegian Air Norway"
+      },
+      {
+        "icao_airline": "NAX",
+        "title": "FFAI_TJH - Norwegian Air Shuttle"
+      },
+      {
+        "icao_airline": "NKS",
+        "title": "FFAI_TJH - Spirit"
+      },
+      {
+        "icao_airline": "NSW",
+        "title": "FFAI_TJH - Norwegian Air Sweden"
+      },
+      {
+        "icao_airline": "NWK",
+        "title": "FFAI_TJH - QantasLink (Net-Link)"
+      },
+      {
+        "icao_airline": "OAW",
+        "title": "FFAI_TJH - Helvetic Airways"
+      },
+      {
+        "icao_airline": "PAC",
+        "title": "FFAI_TJH - Polar Air Cargo (DHL)"
+      },
+      {
+        "icao_airline": "PDT",
+        "title": "FFAI_TJH - Piedmont Airlines (AAL)"
+      },
+      {
+        "icao_airline": "PGA",
+        "title": "FFAI_TJH - TAP Express"
+      },
+      {
+        "icao_airline": "PGT",
+        "title": "FFAI_TJH - Pegasus Airlines"
+      },
+      {
+        "icao_airline": "QAF",
+        "title": "FFAI_TJH - Qatar Amiri Flight"
+      },
+      {
+        "icao_airline": "QFA",
+        "title": "FFAI_TJH - Qantas"
+      },
+      {
+        "icao_airline": "QJE",
+        "title": "FFAI_TJH - QantasLink (Q-Jet)"
+      },
+      {
+        "icao_airline": "QLK",
+        "title": "FFAI_TJH - QantasLink"
+      },
+      {
+        "icao_airline": "QTR",
+        "title": "FFAI_TJH - Qatar Airways"
+      },
+      {
+        "icao_airline": "QXE",
+        "title": "FFAI_TJH - Horizon Air (Alaska)"
+      },
+      {
+        "icao_airline": "ROT",
+        "title": "FFAI_TJH - Tarom"
+      },
+      {
+        "icao_airline": "ROU",
+        "title": "FFAI_TJH - Air Canada (Rouge)"
+      },
+      {
+        "icao_airline": "RPA",
+        "title": "FFAI_TJH - Republic Airlines (DAL)"
+      },
+      {
+        "icao_airline": "RPA",
+        "title": "FFAI_TJH - Republic Airlines (AAL)"
+      },
+      {
+        "icao_airline": "RPA",
+        "title": "FFAI_TJH - Republic Airlines (UAL)"
+      },
+      {
+        "icao_airline": "RUK",
+        "title": "FFAI_TJH - Ryanair UK"
+      },
+      {
+        "icao_airline": "RYR",
+        "title": "FFAI_TJH - Ryanair"
+      },
+      {
+        "icao_airline": "RYS",
+        "title": "FFAI_TJH - Buzz (Ryanair)"
+      },
+      {
+        "icao_airline": "SAS",
+        "title": "FFAI_TJH - SAS"
+      },
+      {
+        "icao_airline": "SBI",
+        "title": "FFAI_TJH - S7 Airlines"
+      },
+      {
+        "icao_airline": "SEJ",
+        "title": "FFAI_TJH - SpiceJet"
+      },
+      {
+        "icao_airline": "SHT",
+        "title": "FFAI_TJH - British Airways (Shuttle)"
+      },
+      {
+        "icao_airline": "SIA",
+        "title": "FFAI_TJH - Singapore Airlines"
+      },
+      {
+        "icao_airline": "SKV",
+        "title": "FFAI_TJH - Air Canada Express (Maple)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_TJH - SkyWest Airlines (Alaska)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_TJH - SkyWest Airlines (DAL)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_TJH - SkyWest Airlines (AAL)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_TJH - SkyWest Airlines (UAL)"
+      },
+      {
+        "icao_airline": "SLI",
+        "title": "FFAI_TJH - Aeromexico Connect"
+      },
+      {
+        "icao_airline": "SVA",
+        "title": "FFAI_TJH - Saudia"
+      },
+      {
+        "icao_airline": "SVR",
+        "title": "FFAI_TJH - Ural"
+      },
+      {
+        "icao_airline": "SWA",
+        "title": "FFAI_TJH - Southwest Airlines"
+      },
+      {
+        "icao_airline": "SWR",
+        "title": "FFAI_TJH - Swiss International Air Lines"
+      },
+      {
+        "icao_airline": "SZS",
+        "title": "FFAI_TJH - Scandinavian Airlines Ireland"
+      },
+      {
+        "icao_airline": "TAM",
+        "title": "FFAI_TJH - LATAM Brasil"
+      },
+      {
+        "icao_airline": "TAP",
+        "title": "FFAI_TJH - TAP Air Portugal"
+      },
+      {
+        "icao_airline": "THA",
+        "title": "FFAI_TJH - Thai Airways International"
+      },
+      {
+        "icao_airline": "THY",
+        "title": "FFAI_TJH - Turkish Airlines"
+      },
+      {
+        "icao_airline": "TLM",
+        "title": "FFAI_TJH - Thai Lion"
+      },
+      {
+        "icao_airline": "UAE",
+        "title": "FFAI_TJH - Emirates"
+      },
+      {
+        "icao_airline": "UAL",
+        "title": "FFAI_TJH - United Airlines"
+      },
+      {
+        "icao_airline": "UPS",
+        "title": "FFAI_TJH - UPS Airlines"
+      },
+      {
+        "icao_airline": "VIR",
+        "title": "FFAI_TJH - Virgin Atlantic"
+      },
+      {
+        "icao_airline": "VIV",
+        "title": "FFAI_TJH - VivaAerobus"
+      },
+      {
+        "icao_airline": "VLG",
+        "title": "FFAI_TJH - Vueling"
+      },
+      {
+        "icao_airline": "VLU",
+        "title": "FFAI_TJH - Valuair (Jetstar)"
+      },
+      {
+        "icao_airline": "VOC",
+        "title": "FFAI_TJH - Volaris Costa Rica"
+      },
+      {
+        "icao_airline": "VOI",
+        "title": "FFAI_TJH - Volaris"
+      },
+      {
+        "icao_airline": "VOS",
+        "title": "FFAI_TJH - Volaris El Salvador"
+      },
+      {
+        "icao_airline": "VOZ",
+        "title": "FFAI_TJH - Virgin Australia"
+      },
+      {
+        "icao_airline": "WAZ",
+        "title": "FFAI_TJH - Wizz Air Abu Dhabi"
+      },
+      {
+        "icao_airline": "WBA",
+        "title": "FFAI_TJH - Nordic Regional Airlines"
+      },
+      {
+        "icao_airline": "WUK",
+        "title": "FFAI_TJH - Wizz Air UK"
+      },
+      {
+        "icao_airline": "WZZ",
+        "title": "FFAI_TJH - Wizz Air"
+      },
+      {
+        "icao_airline": "YZR",
+        "title": "FFAI_TJH - Suparna Airlines"
+      },
+      {
+        "icao_airline": "CFE",
+        "title": "FFAI_TJH - BA CityFlyer"
+      },
+      {
+        "icao_airline": "ITY",
+        "title": "FFAI_TJH - Italia Trasporto Aereo"
+      },
+      {
+        "icao_airline": "LAN",
+        "title": "FFAI_TJH - LATAM"
+      }
+    ],
+    "M": [
+      {
+        "icao_airline": "",
+        "title": "FFAI_TJM - Default"
+      },
+      {
+        "icao_airline": "AAL",
+        "title": "FFAI_TJM - American Airlines"
+      },
+      {
+        "icao_airline": "AAR",
+        "title": "FFAI_TJM - Asiana Airlines"
+      },
+      {
+        "icao_airline": "AAY",
+        "title": "FFAI_TJM - Allegiant Air"
+      },
+      {
+        "icao_airline": "ACA",
+        "title": "FFAI_TJM - Air Canada"
+      },
+      {
+        "icao_airline": "AEE",
+        "title": "FFAI_TJM - Aegean Airlines"
+      },
+      {
+        "icao_airline": "AFL",
+        "title": "FFAI_TJM - Aeroflot"
+      },
+      {
+        "icao_airline": "AFR",
+        "title": "FFAI_TJM - Air France"
+      },
+      {
+        "icao_airline": "AHK",
+        "title": "FFAI_TJM - Air Hong Kong (DHL)"
+      },
+      {
+        "icao_airline": "AIC",
+        "title": "FFAI_TJM - Air India"
+      },
+      {
+        "icao_airline": "AJX",
+        "title": "FFAI_TJM - Air Japan (ANA)"
+      },
+      {
+        "icao_airline": "AKX",
+        "title": "FFAI_TJM - ANA Wings"
+      },
+      {
+        "icao_airline": "AMX",
+        "title": "FFAI_TJM - AeroMexico"
+      },
+      {
+        "icao_airline": "ANA",
+        "title": "FFAI_TJM - All Nippon Airways"
+      },
+      {
+        "icao_airline": "ANE",
+        "title": "FFAI_TJM - Iberia Regional"
+      },
+      {
+        "icao_airline": "ANZ",
+        "title": "FFAI_TJM - Air New Zealand"
+      },
+      {
+        "icao_airline": "ARE",
+        "title": "FFAI_TJM - LATAM Colombia"
+      },
+      {
+        "icao_airline": "ASA",
+        "title": "FFAI_TJM - Alaska Airlines"
+      },
+      {
+        "icao_airline": "ASD",
+        "title": "FFAI_TJM - Air Sinai (Egypt Air)"
+      },
+      {
+        "icao_airline": "ASH",
+        "title": "FFAI_TJM - Mesa Airlines (AAL)"
+      },
+      {
+        "icao_airline": "ASH",
+        "title": "FFAI_TJM - Mesa Airlines (UAL)"
+      },
+      {
+        "icao_airline": "AUA",
+        "title": "FFAI_TJM - Austrian Airlines"
+      },
+      {
+        "icao_airline": "AUI",
+        "title": "FFAI_TJM - Ukraine International"
+      },
+      {
+        "icao_airline": "AXB",
+        "title": "FFAI_TJM - Air India Express"
+      },
+      {
+        "icao_airline": "AZA",
+        "title": "FFAI_TJM - Alitalia"
+      },
+      {
+        "icao_airline": "AZU",
+        "title": "FFAI_TJM - Azul Brazilian Airlines"
+      },
+      {
+        "icao_airline": "BAW",
+        "title": "FFAI_TJM - British Airways"
+      },
+      {
+        "icao_airline": "BCS",
+        "title": "FFAI_TJM - European Air Transport (DHL)"
+      },
+      {
+        "icao_airline": "BEL",
+        "title": "FFAI_TJM - Brussels Airlines"
+      },
+      {
+        "icao_airline": "BLA",
+        "title": "FFAI_TJM - Blue Air"
+      },
+      {
+        "icao_airline": "BOX",
+        "title": "FFAI_TJM - AeroLogic"
+      },
+      {
+        "icao_airline": "CAL",
+        "title": "FFAI_TJM - China Airlines"
+      },
+      {
+        "icao_airline": "CCA",
+        "title": "FFAI_TJM - Air China"
+      },
+      {
+        "icao_airline": "CCD",
+        "title": "FFAI_TJM - Air China Dalian"
+      },
+      {
+        "icao_airline": "CDG",
+        "title": "FFAI_TJM - Shandong Airlines"
+      },
+      {
+        "icao_airline": "CES",
+        "title": "FFAI_TJM - China Eastern Airlines"
+      },
+      {
+        "icao_airline": "CHH",
+        "title": "FFAI_TJM - Hainan Airlines"
+      },
+      {
+        "icao_airline": "CLH",
+        "title": "FFAI_TJM - Lufthansa CityLine"
+      },
+      {
+        "icao_airline": "CLW",
+        "title": "FFAI_TJM - LOT Charters"
+      },
+      {
+        "icao_airline": "CMN",
+        "title": "FFAI_TJM - Air China Inner Mongolia"
+      },
+      {
+        "icao_airline": "CPA",
+        "title": "FFAI_TJM - Cathay Pacific"
+      },
+      {
+        "icao_airline": "CQH",
+        "title": "FFAI_TJM - Spring Airlines"
+      },
+      {
+        "icao_airline": "CSC",
+        "title": "FFAI_TJM - Sichuan Airlines"
+      },
+      {
+        "icao_airline": "CSN",
+        "title": "FFAI_TJM - China Southern Airlines"
+      },
+      {
+        "icao_airline": "CSZ",
+        "title": "FFAI_TJM - Shenzhen Airlines"
+      },
+      {
+        "icao_airline": "CYL",
+        "title": "FFAI_TJM - Alitalia CityLiner"
+      },
+      {
+        "icao_airline": "DAE",
+        "title": "FFAI_TJM - DHL Aero Expreso"
+      },
+      {
+        "icao_airline": "DAL",
+        "title": "FFAI_TJM - Delta Air Lines"
+      },
+      {
+        "icao_airline": "DHK",
+        "title": "FFAI_TJM - DHL Air UK"
+      },
+      {
+        "icao_airline": "DHX",
+        "title": "FFAI_TJM - DHL International Aviation ME"
+      },
+      {
+        "icao_airline": "DKH",
+        "title": "FFAI_TJM - Juneyao Airlines"
+      },
+      {
+        "icao_airline": "DLH",
+        "title": "FFAI_TJM - Lufthansa"
+      },
+      {
+        "icao_airline": "EIN",
+        "title": "FFAI_TJM - Aer Lingus"
+      },
+      {
+        "icao_airline": "EJU",
+        "title": "FFAI_TJM - easyJet Europe"
+      },
+      {
+        "icao_airline": "ENY",
+        "title": "FFAI_TJM - Envoy Air (AAL)"
+      },
+      {
+        "icao_airline": "ETD",
+        "title": "FFAI_TJM - Etihad Airways"
+      },
+      {
+        "icao_airline": "ETH",
+        "title": "FFAI_TJM - Ethiopian Airlines"
+      },
+      {
+        "icao_airline": "EZS",
+        "title": "FFAI_TJM - easyJet Switzerland"
+      },
+      {
+        "icao_airline": "EZY",
+        "title": "FFAI_TJM - easyJet UK"
+      },
+      {
+        "icao_airline": "FCM",
+        "title": "FFAI_TJM - Nordic Regional Airlines (Finnair)"
+      },
+      {
+        "icao_airline": "FDX",
+        "title": "FFAI_TJM - FedEx"
+      },
+      {
+        "icao_airline": "FFT",
+        "title": "FFAI_TJM - Frontier"
+      },
+      {
+        "icao_airline": "FIN",
+        "title": "FFAI_TJM - Finnair"
+      },
+      {
+        "icao_airline": "GDC",
+        "title": "FFAI_TJM - Grand China Air"
+      },
+      {
+        "icao_airline": "GEC",
+        "title": "FFAI_TJM - Lufthansa Cargo"
+      },
+      {
+        "icao_airline": "HOP",
+        "title": "FFAI_TJM - Air France Hop"
+      },
+      {
+        "icao_airline": "IBE",
+        "title": "FFAI_TJM - Iberia"
+      },
+      {
+        "icao_airline": "IBK",
+        "title": "FFAI_TJM - Norwegian Air International"
+      },
+      {
+        "icao_airline": "IBS",
+        "title": "FFAI_TJM - Iberia Express"
+      },
+      {
+        "icao_airline": "IGO",
+        "title": "FFAI_TJM - IndiGo"
+      },
+      {
+        "icao_airline": "IRA",
+        "title": "FFAI_TJM - Iran Air"
+      },
+      {
+        "icao_airline": "IZM",
+        "title": "FFAI_TJM - Izmir Airlines (Pegasus)"
+      },
+      {
+        "icao_airline": "JAC",
+        "title": "FFAI_TJM - Japan Air Commuter"
+      },
+      {
+        "icao_airline": "JAL",
+        "title": "FFAI_TJM - Japan Airlines"
+      },
+      {
+        "icao_airline": "JBU",
+        "title": "FFAI_TJM - JetBlue"
+      },
+      {
+        "icao_airline": "JJP",
+        "title": "FFAI_TJM - Jetstar Japan"
+      },
+      {
+        "icao_airline": "JLJ",
+        "title": "FFAI_TJM - J-Air"
+      },
+      {
+        "icao_airline": "JSA",
+        "title": "FFAI_TJM - Jetstar Asia"
+      },
+      {
+        "icao_airline": "JST",
+        "title": "FFAI_TJM - Jetstar"
+      },
+      {
+        "icao_airline": "JTA",
+        "title": "FFAI_TJM - Japan Transocean Air"
+      },
+      {
+        "icao_airline": "JZA",
+        "title": "FFAI_TJM - Air Canada Express (Jazz)"
+      },
+      {
+        "icao_airline": "KAC",
+        "title": "FFAI_TJM - Kuwait Airways"
+      },
+      {
+        "icao_airline": "KAL",
+        "title": "FFAI_TJM - Korean Air"
+      },
+      {
+        "icao_airline": "KLC",
+        "title": "FFAI_TJM - KLM Cityhopper"
+      },
+      {
+        "icao_airline": "KLM",
+        "title": "FFAI_TJM - KLM"
+      },
+      {
+        "icao_airline": "KNA",
+        "title": "FFAI_TJM - Kunming Airlines"
+      },
+      {
+        "icao_airline": "LAE",
+        "title": "FFAI_TJM - LATAM Cargo Colombia"
+      },
+      {
+        "icao_airline": "LAP",
+        "title": "FFAI_TJM - LATAM Paraguay"
+      },
+      {
+        "icao_airline": "LCO",
+        "title": "FFAI_TJM - LATAM Cargo Chile"
+      },
+      {
+        "icao_airline": "LLR",
+        "title": "FFAI_TJM - Alliance Air (Air India)"
+      },
+      {
+        "icao_airline": "LNE",
+        "title": "FFAI_TJM - LATAM Equador"
+      },
+      {
+        "icao_airline": "LNI",
+        "title": "FFAI_TJM - Lion Air"
+      },
+      {
+        "icao_airline": "LOT",
+        "title": "FFAI_TJM - LOT Polish Airlines"
+      },
+      {
+        "icao_airline": "LPE",
+        "title": "FFAI_TJM - LATAM Peru"
+      },
+      {
+        "icao_airline": "LTG",
+        "title": "FFAI_TJM - LATAM Cargo Brasil"
+      },
+      {
+        "icao_airline": "LXP",
+        "title": "FFAI_TJM - LATAM Express"
+      },
+      {
+        "icao_airline": "MAY",
+        "title": "FFAI_TJM - Malta Air (Ryanair)"
+      },
+      {
+        "icao_airline": "MBB",
+        "title": "FFAI_TJM - Air Manas (Pegasus)"
+      },
+      {
+        "icao_airline": "MSR",
+        "title": "FFAI_TJM - Egypt Air"
+      },
+      {
+        "icao_airline": "MXD",
+        "title": "FFAI_TJM - Malindo Air"
+      },
+      {
+        "icao_airline": "NAN",
+        "title": "FFAI_TJM - Norwegian Air Norway"
+      },
+      {
+        "icao_airline": "NAX",
+        "title": "FFAI_TJM - Norwegian Air Shuttle"
+      },
+      {
+        "icao_airline": "NKS",
+        "title": "FFAI_TJM - Spirit"
+      },
+      {
+        "icao_airline": "NSW",
+        "title": "FFAI_TJM - Norwegian Air Sweden"
+      },
+      {
+        "icao_airline": "NWK",
+        "title": "FFAI_TJM - QantasLink (Net-Link)"
+      },
+      {
+        "icao_airline": "OAW",
+        "title": "FFAI_TJM - Helvetic Airways"
+      },
+      {
+        "icao_airline": "PAC",
+        "title": "FFAI_TJM - Polar Air Cargo (DHL)"
+      },
+      {
+        "icao_airline": "PDT",
+        "title": "FFAI_TJM - Piedmont Airlines (AAL)"
+      },
+      {
+        "icao_airline": "PGA",
+        "title": "FFAI_TJM - TAP Express"
+      },
+      {
+        "icao_airline": "PGT",
+        "title": "FFAI_TJM - Pegasus Airlines"
+      },
+      {
+        "icao_airline": "QAF",
+        "title": "FFAI_TJM - Qatar Amiri Flight"
+      },
+      {
+        "icao_airline": "QFA",
+        "title": "FFAI_TJM - Qantas"
+      },
+      {
+        "icao_airline": "QJE",
+        "title": "FFAI_TJM - QantasLink (Q-Jet)"
+      },
+      {
+        "icao_airline": "QLK",
+        "title": "FFAI_TJM - QantasLink"
+      },
+      {
+        "icao_airline": "QTR",
+        "title": "FFAI_TJM - Qatar Airways"
+      },
+      {
+        "icao_airline": "QXE",
+        "title": "FFAI_TJM - Horizon Air (Alaska)"
+      },
+      {
+        "icao_airline": "ROT",
+        "title": "FFAI_TJM - Tarom"
+      },
+      {
+        "icao_airline": "ROU",
+        "title": "FFAI_TJM - Air Canada (Rouge)"
+      },
+      {
+        "icao_airline": "RPA",
+        "title": "FFAI_TJM - Republic Airlines (DAL)"
+      },
+      {
+        "icao_airline": "RPA",
+        "title": "FFAI_TJM - Republic Airlines (AAL)"
+      },
+      {
+        "icao_airline": "RPA",
+        "title": "FFAI_TJM - Republic Airlines (UAL)"
+      },
+      {
+        "icao_airline": "RUK",
+        "title": "FFAI_TJM - Ryanair UK"
+      },
+      {
+        "icao_airline": "RYR",
+        "title": "FFAI_TJM - Ryanair"
+      },
+      {
+        "icao_airline": "RYS",
+        "title": "FFAI_TJM - Buzz (Ryanair)"
+      },
+      {
+        "icao_airline": "SAS",
+        "title": "FFAI_TJM - SAS"
+      },
+      {
+        "icao_airline": "SBI",
+        "title": "FFAI_TJM - S7 Airlines"
+      },
+      {
+        "icao_airline": "SEJ",
+        "title": "FFAI_TJM - SpiceJet"
+      },
+      {
+        "icao_airline": "SHT",
+        "title": "FFAI_TJM - British Airways (Shuttle)"
+      },
+      {
+        "icao_airline": "SIA",
+        "title": "FFAI_TJM - Singapore Airlines"
+      },
+      {
+        "icao_airline": "SKV",
+        "title": "FFAI_TJM - Air Canada Express (Maple)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_TJM - SkyWest Airlines (Alaska)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_TJM - SkyWest Airlines (DAL)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_TJM - SkyWest Airlines (AAL)"
+      },
+      {
+        "icao_airline": "SKW",
+        "title": "FFAI_TJM - SkyWest Airlines (UAL)"
+      },
+      {
+        "icao_airline": "SLI",
+        "title": "FFAI_TJM - Aeromexico Connect"
+      },
+      {
+        "icao_airline": "SVA",
+        "title": "FFAI_TJM - Saudia"
+      },
+      {
+        "icao_airline": "SVR",
+        "title": "FFAI_TJM - Ural"
+      },
+      {
+        "icao_airline": "SWA",
+        "title": "FFAI_TJM - Southwest Airlines"
+      },
+      {
+        "icao_airline": "SWR",
+        "title": "FFAI_TJM - Swiss International Air Lines"
+      },
+      {
+        "icao_airline": "SZS",
+        "title": "FFAI_TJM - Scandinavian Airlines Ireland"
+      },
+      {
+        "icao_airline": "TAM",
+        "title": "FFAI_TJM - LATAM Brasil"
+      },
+      {
+        "icao_airline": "TAP",
+        "title": "FFAI_TJM - TAP Air Portugal"
+      },
+      {
+        "icao_airline": "THA",
+        "title": "FFAI_TJM - Thai Airways International"
+      },
+      {
+        "icao_airline": "THY",
+        "title": "FFAI_TJM - Turkish Airlines"
+      },
+      {
+        "icao_airline": "TLM",
+        "title": "FFAI_TJM - Thai Lion"
+      },
+      {
+        "icao_airline": "UAE",
+        "title": "FFAI_TJM - Emirates"
+      },
+      {
+        "icao_airline": "UAL",
+        "title": "FFAI_TJM - United Airlines"
+      },
+      {
+        "icao_airline": "UPS",
+        "title": "FFAI_TJM - UPS Airlines"
+      },
+      {
+        "icao_airline": "VIR",
+        "title": "FFAI_TJM - Virgin Atlantic"
+      },
+      {
+        "icao_airline": "VIV",
+        "title": "FFAI_TJM - VivaAerobus"
+      },
+      {
+        "icao_airline": "VLG",
+        "title": "FFAI_TJM - Vueling"
+      },
+      {
+        "icao_airline": "VLU",
+        "title": "FFAI_TJM - Valuair (Jetstar)"
+      },
+      {
+        "icao_airline": "VOC",
+        "title": "FFAI_TJM - Volaris Costa Rica"
+      },
+      {
+        "icao_airline": "VOI",
+        "title": "FFAI_TJM - Volaris"
+      },
+      {
+        "icao_airline": "VOS",
+        "title": "FFAI_TJM - Volaris El Salvador"
+      },
+      {
+        "icao_airline": "VOZ",
+        "title": "FFAI_TJM - Virgin Australia"
+      },
+      {
+        "icao_airline": "WAZ",
+        "title": "FFAI_TJM - Wizz Air Abu Dhabi"
+      },
+      {
+        "icao_airline": "WBA",
+        "title": "FFAI_TJM - Nordic Regional Airlines"
+      },
+      {
+        "icao_airline": "WUK",
+        "title": "FFAI_TJM - Wizz Air UK"
+      },
+      {
+        "icao_airline": "WZZ",
+        "title": "FFAI_TJM - Wizz Air"
+      },
+      {
+        "icao_airline": "YZR",
+        "title": "FFAI_TJM - Suparna Airlines"
+      },
+      {
+        "icao_airline": "CFE",
+        "title": "FFAI_TJM - BA CityFlyer"
+      },
+      {
+        "icao_airline": "ITY",
+        "title": "FFAI_TJM - Italia Trasporto Aereo"
+      },
+      {
+        "icao_airline": "LAN",
+        "title": "FFAI_TJM - LATAM"
+      }
+    ]
+  }
+}
