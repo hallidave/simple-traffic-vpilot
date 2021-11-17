@@ -1,6 +1,8 @@
 # Model Matching Rules for Aerosoft Simple Traffic
 
-If you want to use the liveries for Aerosoft's Simple Traffic product with VATSIM, just download the `simple_traffic.vmr` file, put it in a safe place, and then add the file as a Custom Rule Set in vPilot.
+This project generates a model matching file for vPilot that uses the liveries from [Aerosoft's Simple Traffic](https://www.aerosoft.com/en/microsoft-flight-simulator/msfs-tools/3537/aerosoft-tool-simple-traffic) product. The model matching file allows you to see the Aerosoft liveries when you are using live ATC on the VATSIM network with Microsoft Flight Simulator 2020.
+
+To get the model matching file, download the latest version under **Releases**, unzip the files, and copy the `simple_traffic.vmr` file to a safe place. Then add the file as a Custom Rule Set in vPilot.
 
 In vPilot, go to **Settings->Model Matching->Custom Rules->Add Custom Rule Set(s)...** and then select the `simple_traffic.vmr` file that you downloaded.
 
