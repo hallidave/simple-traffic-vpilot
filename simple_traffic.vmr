@@ -134,8 +134,7 @@
   <ModelMatchRule CallsignPrefix="AHO" TypeCode="CRJ2" ModelName="FFAI_RJM - Air Hamburg" />
   <ModelMatchRule CallsignPrefix="ANE" TypeCode="CRJ2" ModelName="FFAI_RJM - Iberia Regional" />
   <ModelMatchRule CallsignPrefix="AOK" TypeCode="CRJ2" ModelName="FFAI_RJM - Aero-Jet" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ2" ModelName="FFAI_RJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ2" ModelName="FFAI_RJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ2" ModelName="FFAI_RJM - Mesa Airlines (AAL)//FFAI_RJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="ASP" TypeCode="CRJ2" ModelName="FFAI_RJM - AirSprint" />
   <ModelMatchRule CallsignPrefix="AWI" TypeCode="CRJ2" ModelName="FFAI_RJM - Air Wisconsin (United)" />
   <ModelMatchRule CallsignPrefix="CLH" TypeCode="CRJ2" ModelName="FFAI_RJM - Lufthansa CityLine" />
@@ -159,10 +158,7 @@
   <ModelMatchRule CallsignPrefix="PDT" TypeCode="CRJ2" ModelName="FFAI_RJM - Piedmont Airlines (AAL)" />
   <ModelMatchRule CallsignPrefix="PXT" TypeCode="CRJ2" ModelName="FFAI_RJM - Pacific Coast Jet" />
   <ModelMatchRule CallsignPrefix="RGY" TypeCode="CRJ2" ModelName="FFAI_RJM - Regency" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ2" ModelName="FFAI_RJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ2" ModelName="FFAI_RJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ2" ModelName="FFAI_RJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ2" ModelName="FFAI_RJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ2" ModelName="FFAI_RJM - SkyWest Airlines (AAL)//FFAI_RJM - SkyWest Airlines (DAL)//FFAI_RJM - SkyWest Airlines (Alaska)//FFAI_RJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="UCA" TypeCode="CRJ2" ModelName="FFAI_RJM - CommutAir (United)" />
   <ModelMatchRule CallsignPrefix="VJT" TypeCode="CRJ2" ModelName="FFAI_RJM - VistaJet" />
   <ModelMatchRule CallsignPrefix="XOJ" TypeCode="CRJ2" ModelName="FFAI_RJM - XOJet" />
@@ -170,8 +166,7 @@
   <ModelMatchRule CallsignPrefix="AHO" TypeCode="CRJ7" ModelName="FFAI_RJM - Air Hamburg" />
   <ModelMatchRule CallsignPrefix="ANE" TypeCode="CRJ7" ModelName="FFAI_RJM - Iberia Regional" />
   <ModelMatchRule CallsignPrefix="AOK" TypeCode="CRJ7" ModelName="FFAI_RJM - Aero-Jet" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ7" ModelName="FFAI_RJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ7" ModelName="FFAI_RJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ7" ModelName="FFAI_RJM - Mesa Airlines (AAL)//FFAI_RJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="ASP" TypeCode="CRJ7" ModelName="FFAI_RJM - AirSprint" />
   <ModelMatchRule CallsignPrefix="AWI" TypeCode="CRJ7" ModelName="FFAI_RJM - Air Wisconsin (United)" />
   <ModelMatchRule CallsignPrefix="CLH" TypeCode="CRJ7" ModelName="FFAI_RJM - Lufthansa CityLine" />
@@ -195,10 +190,7 @@
   <ModelMatchRule CallsignPrefix="PDT" TypeCode="CRJ7" ModelName="FFAI_RJM - Piedmont Airlines (AAL)" />
   <ModelMatchRule CallsignPrefix="PXT" TypeCode="CRJ7" ModelName="FFAI_RJM - Pacific Coast Jet" />
   <ModelMatchRule CallsignPrefix="RGY" TypeCode="CRJ7" ModelName="FFAI_RJM - Regency" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ7" ModelName="FFAI_RJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ7" ModelName="FFAI_RJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ7" ModelName="FFAI_RJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ7" ModelName="FFAI_RJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ7" ModelName="FFAI_RJM - SkyWest Airlines (AAL)//FFAI_RJM - SkyWest Airlines (DAL)//FFAI_RJM - SkyWest Airlines (Alaska)//FFAI_RJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="UCA" TypeCode="CRJ7" ModelName="FFAI_RJM - CommutAir (United)" />
   <ModelMatchRule CallsignPrefix="VJT" TypeCode="CRJ7" ModelName="FFAI_RJM - VistaJet" />
   <ModelMatchRule CallsignPrefix="XOJ" TypeCode="CRJ7" ModelName="FFAI_RJM - XOJet" />
@@ -206,8 +198,7 @@
   <ModelMatchRule CallsignPrefix="AHO" TypeCode="CRJ9" ModelName="FFAI_RJM - Air Hamburg" />
   <ModelMatchRule CallsignPrefix="ANE" TypeCode="CRJ9" ModelName="FFAI_RJM - Iberia Regional" />
   <ModelMatchRule CallsignPrefix="AOK" TypeCode="CRJ9" ModelName="FFAI_RJM - Aero-Jet" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ9" ModelName="FFAI_RJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ9" ModelName="FFAI_RJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJ9" ModelName="FFAI_RJM - Mesa Airlines (AAL)//FFAI_RJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="ASP" TypeCode="CRJ9" ModelName="FFAI_RJM - AirSprint" />
   <ModelMatchRule CallsignPrefix="AWI" TypeCode="CRJ9" ModelName="FFAI_RJM - Air Wisconsin (United)" />
   <ModelMatchRule CallsignPrefix="CLH" TypeCode="CRJ9" ModelName="FFAI_RJM - Lufthansa CityLine" />
@@ -231,10 +222,7 @@
   <ModelMatchRule CallsignPrefix="PDT" TypeCode="CRJ9" ModelName="FFAI_RJM - Piedmont Airlines (AAL)" />
   <ModelMatchRule CallsignPrefix="PXT" TypeCode="CRJ9" ModelName="FFAI_RJM - Pacific Coast Jet" />
   <ModelMatchRule CallsignPrefix="RGY" TypeCode="CRJ9" ModelName="FFAI_RJM - Regency" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ9" ModelName="FFAI_RJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ9" ModelName="FFAI_RJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ9" ModelName="FFAI_RJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ9" ModelName="FFAI_RJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJ9" ModelName="FFAI_RJM - SkyWest Airlines (AAL)//FFAI_RJM - SkyWest Airlines (DAL)//FFAI_RJM - SkyWest Airlines (Alaska)//FFAI_RJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="UCA" TypeCode="CRJ9" ModelName="FFAI_RJM - CommutAir (United)" />
   <ModelMatchRule CallsignPrefix="VJT" TypeCode="CRJ9" ModelName="FFAI_RJM - VistaJet" />
   <ModelMatchRule CallsignPrefix="XOJ" TypeCode="CRJ9" ModelName="FFAI_RJM - XOJet" />
@@ -242,8 +230,7 @@
   <ModelMatchRule CallsignPrefix="AHO" TypeCode="CRJX" ModelName="FFAI_RJM - Air Hamburg" />
   <ModelMatchRule CallsignPrefix="ANE" TypeCode="CRJX" ModelName="FFAI_RJM - Iberia Regional" />
   <ModelMatchRule CallsignPrefix="AOK" TypeCode="CRJX" ModelName="FFAI_RJM - Aero-Jet" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJX" ModelName="FFAI_RJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJX" ModelName="FFAI_RJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="CRJX" ModelName="FFAI_RJM - Mesa Airlines (AAL)//FFAI_RJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="ASP" TypeCode="CRJX" ModelName="FFAI_RJM - AirSprint" />
   <ModelMatchRule CallsignPrefix="AWI" TypeCode="CRJX" ModelName="FFAI_RJM - Air Wisconsin (United)" />
   <ModelMatchRule CallsignPrefix="CLH" TypeCode="CRJX" ModelName="FFAI_RJM - Lufthansa CityLine" />
@@ -267,10 +254,7 @@
   <ModelMatchRule CallsignPrefix="PDT" TypeCode="CRJX" ModelName="FFAI_RJM - Piedmont Airlines (AAL)" />
   <ModelMatchRule CallsignPrefix="PXT" TypeCode="CRJX" ModelName="FFAI_RJM - Pacific Coast Jet" />
   <ModelMatchRule CallsignPrefix="RGY" TypeCode="CRJX" ModelName="FFAI_RJM - Regency" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJX" ModelName="FFAI_RJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJX" ModelName="FFAI_RJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJX" ModelName="FFAI_RJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJX" ModelName="FFAI_RJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="CRJX" ModelName="FFAI_RJM - SkyWest Airlines (AAL)//FFAI_RJM - SkyWest Airlines (DAL)//FFAI_RJM - SkyWest Airlines (Alaska)//FFAI_RJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="UCA" TypeCode="CRJX" ModelName="FFAI_RJM - CommutAir (United)" />
   <ModelMatchRule CallsignPrefix="VJT" TypeCode="CRJX" ModelName="FFAI_RJM - VistaJet" />
   <ModelMatchRule CallsignPrefix="XOJ" TypeCode="CRJX" ModelName="FFAI_RJM - XOJet" />
@@ -278,8 +262,7 @@
   <ModelMatchRule CallsignPrefix="AHO" TypeCode="E135" ModelName="FFAI_RJM - Air Hamburg" />
   <ModelMatchRule CallsignPrefix="ANE" TypeCode="E135" ModelName="FFAI_RJM - Iberia Regional" />
   <ModelMatchRule CallsignPrefix="AOK" TypeCode="E135" ModelName="FFAI_RJM - Aero-Jet" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E135" ModelName="FFAI_RJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E135" ModelName="FFAI_RJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E135" ModelName="FFAI_RJM - Mesa Airlines (AAL)//FFAI_RJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="ASP" TypeCode="E135" ModelName="FFAI_RJM - AirSprint" />
   <ModelMatchRule CallsignPrefix="AWI" TypeCode="E135" ModelName="FFAI_RJM - Air Wisconsin (United)" />
   <ModelMatchRule CallsignPrefix="CLH" TypeCode="E135" ModelName="FFAI_RJM - Lufthansa CityLine" />
@@ -303,10 +286,7 @@
   <ModelMatchRule CallsignPrefix="PDT" TypeCode="E135" ModelName="FFAI_RJM - Piedmont Airlines (AAL)" />
   <ModelMatchRule CallsignPrefix="PXT" TypeCode="E135" ModelName="FFAI_RJM - Pacific Coast Jet" />
   <ModelMatchRule CallsignPrefix="RGY" TypeCode="E135" ModelName="FFAI_RJM - Regency" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E135" ModelName="FFAI_RJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E135" ModelName="FFAI_RJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E135" ModelName="FFAI_RJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E135" ModelName="FFAI_RJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E135" ModelName="FFAI_RJM - SkyWest Airlines (AAL)//FFAI_RJM - SkyWest Airlines (DAL)//FFAI_RJM - SkyWest Airlines (Alaska)//FFAI_RJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="UCA" TypeCode="E135" ModelName="FFAI_RJM - CommutAir (United)" />
   <ModelMatchRule CallsignPrefix="VJT" TypeCode="E135" ModelName="FFAI_RJM - VistaJet" />
   <ModelMatchRule CallsignPrefix="XOJ" TypeCode="E135" ModelName="FFAI_RJM - XOJet" />
@@ -314,8 +294,7 @@
   <ModelMatchRule CallsignPrefix="AHO" TypeCode="E145" ModelName="FFAI_RJM - Air Hamburg" />
   <ModelMatchRule CallsignPrefix="ANE" TypeCode="E145" ModelName="FFAI_RJM - Iberia Regional" />
   <ModelMatchRule CallsignPrefix="AOK" TypeCode="E145" ModelName="FFAI_RJM - Aero-Jet" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E145" ModelName="FFAI_RJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E145" ModelName="FFAI_RJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E145" ModelName="FFAI_RJM - Mesa Airlines (AAL)//FFAI_RJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="ASP" TypeCode="E145" ModelName="FFAI_RJM - AirSprint" />
   <ModelMatchRule CallsignPrefix="AWI" TypeCode="E145" ModelName="FFAI_RJM - Air Wisconsin (United)" />
   <ModelMatchRule CallsignPrefix="CLH" TypeCode="E145" ModelName="FFAI_RJM - Lufthansa CityLine" />
@@ -339,10 +318,7 @@
   <ModelMatchRule CallsignPrefix="PDT" TypeCode="E145" ModelName="FFAI_RJM - Piedmont Airlines (AAL)" />
   <ModelMatchRule CallsignPrefix="PXT" TypeCode="E145" ModelName="FFAI_RJM - Pacific Coast Jet" />
   <ModelMatchRule CallsignPrefix="RGY" TypeCode="E145" ModelName="FFAI_RJM - Regency" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E145" ModelName="FFAI_RJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E145" ModelName="FFAI_RJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E145" ModelName="FFAI_RJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E145" ModelName="FFAI_RJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E145" ModelName="FFAI_RJM - SkyWest Airlines (AAL)//FFAI_RJM - SkyWest Airlines (DAL)//FFAI_RJM - SkyWest Airlines (Alaska)//FFAI_RJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="UCA" TypeCode="E145" ModelName="FFAI_RJM - CommutAir (United)" />
   <ModelMatchRule CallsignPrefix="VJT" TypeCode="E145" ModelName="FFAI_RJM - VistaJet" />
   <ModelMatchRule CallsignPrefix="XOJ" TypeCode="E145" ModelName="FFAI_RJM - XOJet" />
@@ -365,8 +341,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A338" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A338" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A338" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A338" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A338" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A338" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A338" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A338" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A338" ModelName="FFAI_TJH - Air India Express" />
@@ -464,9 +439,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A338" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A338" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A338" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A338" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A338" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A338" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A338" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A338" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A338" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A338" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -476,10 +449,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A338" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A338" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A338" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A338" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A338" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A338" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A338" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A338" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A338" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A338" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A338" ModelName="FFAI_TJH - Ural" />
@@ -529,8 +499,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A339" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A339" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A339" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A339" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A339" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A339" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A339" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A339" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A339" ModelName="FFAI_TJH - Air India Express" />
@@ -628,9 +597,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A339" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A339" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A339" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A339" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A339" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A339" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A339" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A339" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A339" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A339" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -640,10 +607,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A339" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A339" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A339" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A339" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A339" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A339" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A339" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A339" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A339" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A339" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A339" ModelName="FFAI_TJH - Ural" />
@@ -693,8 +657,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A359" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A359" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A359" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A359" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A359" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A359" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A359" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A359" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A359" ModelName="FFAI_TJH - Air India Express" />
@@ -792,9 +755,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A359" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A359" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A359" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A359" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A359" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A359" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A359" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A359" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A359" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A359" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -804,10 +765,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A359" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A359" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A359" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A359" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A359" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A359" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A359" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A359" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A359" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A359" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A359" ModelName="FFAI_TJH - Ural" />
@@ -857,8 +815,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A35K" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A35K" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A35K" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A35K" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A35K" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A35K" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A35K" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A35K" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A35K" ModelName="FFAI_TJH - Air India Express" />
@@ -956,9 +913,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A35K" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A35K" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A35K" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A35K" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A35K" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A35K" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A35K" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A35K" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A35K" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A35K" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -968,10 +923,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A35K" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A35K" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A35K" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A35K" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A35K" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A35K" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A35K" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A35K" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A35K" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A35K" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A35K" ModelName="FFAI_TJH - Ural" />
@@ -1021,8 +973,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B762" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B762" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B762" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B762" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B762" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B762" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B762" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B762" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B762" ModelName="FFAI_TJH - Air India Express" />
@@ -1120,9 +1071,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B762" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B762" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B762" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B762" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B762" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B762" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B762" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B762" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B762" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B762" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -1132,10 +1081,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B762" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B762" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B762" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B762" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B762" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B762" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B762" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B762" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B762" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B762" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B762" ModelName="FFAI_TJH - Ural" />
@@ -1185,8 +1131,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B763" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B763" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B763" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B763" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B763" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B763" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B763" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B763" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B763" ModelName="FFAI_TJH - Air India Express" />
@@ -1284,9 +1229,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B763" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B763" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B763" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B763" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B763" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B763" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B763" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B763" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B763" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B763" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -1296,10 +1239,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B763" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B763" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B763" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B763" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B763" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B763" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B763" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B763" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B763" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B763" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B763" ModelName="FFAI_TJH - Ural" />
@@ -1349,8 +1289,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B764" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B764" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B764" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B764" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B764" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B764" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B764" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B764" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B764" ModelName="FFAI_TJH - Air India Express" />
@@ -1448,9 +1387,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B764" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B764" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B764" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B764" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B764" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B764" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B764" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B764" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B764" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B764" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -1460,10 +1397,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B764" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B764" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B764" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B764" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B764" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B764" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B764" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B764" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B764" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B764" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B764" ModelName="FFAI_TJH - Ural" />
@@ -1513,8 +1447,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B772" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B772" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B772" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B772" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B772" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B772" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B772" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B772" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B772" ModelName="FFAI_TJH - Air India Express" />
@@ -1612,9 +1545,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B772" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B772" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B772" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B772" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B772" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B772" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B772" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B772" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B772" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B772" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -1624,10 +1555,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B772" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B772" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B772" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B772" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B772" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B772" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B772" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B772" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B772" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B772" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B772" ModelName="FFAI_TJH - Ural" />
@@ -1677,8 +1605,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B773" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B773" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B773" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B773" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B773" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B773" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B773" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B773" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B773" ModelName="FFAI_TJH - Air India Express" />
@@ -1776,9 +1703,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B773" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B773" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B773" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B773" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B773" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B773" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B773" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B773" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B773" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B773" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -1788,10 +1713,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B773" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B773" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B773" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B773" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B773" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B773" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B773" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B773" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B773" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B773" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B773" ModelName="FFAI_TJH - Ural" />
@@ -1841,8 +1763,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B778" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B778" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B778" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B778" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B778" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B778" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B778" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B778" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B778" ModelName="FFAI_TJH - Air India Express" />
@@ -1940,9 +1861,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B778" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B778" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B778" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B778" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B778" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B778" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B778" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B778" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B778" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B778" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -1952,10 +1871,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B778" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B778" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B778" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B778" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B778" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B778" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B778" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B778" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B778" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B778" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B778" ModelName="FFAI_TJH - Ural" />
@@ -2005,8 +1921,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B77L" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B77L" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B77L" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B77L" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B77L" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B77L" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B77L" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B77L" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B77L" ModelName="FFAI_TJH - Air India Express" />
@@ -2104,9 +2019,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B77L" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B77L" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B77L" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B77L" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B77L" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B77L" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B77L" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B77L" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B77L" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B77L" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -2116,10 +2029,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B77L" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B77L" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B77L" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77L" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77L" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77L" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77L" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77L" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B77L" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B77L" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B77L" ModelName="FFAI_TJH - Ural" />
@@ -2169,8 +2079,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B77W" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B77W" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B77W" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B77W" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B77W" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B77W" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B77W" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B77W" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B77W" ModelName="FFAI_TJH - Air India Express" />
@@ -2268,9 +2177,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B77W" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B77W" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B77W" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B77W" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B77W" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B77W" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B77W" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B77W" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B77W" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B77W" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -2280,10 +2187,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B77W" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B77W" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B77W" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77W" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77W" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77W" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77W" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B77W" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B77W" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B77W" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B77W" ModelName="FFAI_TJH - Ural" />
@@ -2333,8 +2237,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B788" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B788" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B788" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B788" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B788" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B788" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B788" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B788" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B788" ModelName="FFAI_TJH - Air India Express" />
@@ -2432,9 +2335,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B788" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B788" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B788" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B788" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B788" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B788" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B788" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B788" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B788" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B788" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -2444,10 +2345,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B788" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B788" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B788" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B788" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B788" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B788" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B788" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B788" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B788" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B788" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B788" ModelName="FFAI_TJH - Ural" />
@@ -2497,8 +2395,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B789" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B789" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B789" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B789" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B789" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B789" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B789" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B789" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B789" ModelName="FFAI_TJH - Air India Express" />
@@ -2596,9 +2493,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B789" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B789" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B789" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B789" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B789" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B789" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B789" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B789" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B789" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B789" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -2608,10 +2503,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B789" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B789" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B789" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B789" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B789" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B789" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B789" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B789" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B789" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B789" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B789" ModelName="FFAI_TJH - Ural" />
@@ -2661,8 +2553,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B78X" ModelName="FFAI_TJH - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B78X" ModelName="FFAI_TJH - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B78X" ModelName="FFAI_TJH - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B78X" ModelName="FFAI_TJH - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B78X" ModelName="FFAI_TJH - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B78X" ModelName="FFAI_TJH - Mesa Airlines (AAL)//FFAI_TJH - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B78X" ModelName="FFAI_TJH - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B78X" ModelName="FFAI_TJH - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B78X" ModelName="FFAI_TJH - Air India Express" />
@@ -2760,9 +2651,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B78X" ModelName="FFAI_TJH - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B78X" ModelName="FFAI_TJH - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B78X" ModelName="FFAI_TJH - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B78X" ModelName="FFAI_TJH - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B78X" ModelName="FFAI_TJH - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B78X" ModelName="FFAI_TJH - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B78X" ModelName="FFAI_TJH - Republic Airlines (DAL)//FFAI_TJH - Republic Airlines (AAL)//FFAI_TJH - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B78X" ModelName="FFAI_TJH - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B78X" ModelName="FFAI_TJH - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B78X" ModelName="FFAI_TJH - Buzz (Ryanair)" />
@@ -2772,10 +2661,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B78X" ModelName="FFAI_TJH - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B78X" ModelName="FFAI_TJH - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B78X" ModelName="FFAI_TJH - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B78X" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B78X" ModelName="FFAI_TJH - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B78X" ModelName="FFAI_TJH - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B78X" ModelName="FFAI_TJH - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B78X" ModelName="FFAI_TJH - SkyWest Airlines (Alaska)//FFAI_TJH - SkyWest Airlines (DAL)//FFAI_TJH - SkyWest Airlines (AAL)//FFAI_TJH - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B78X" ModelName="FFAI_TJH - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B78X" ModelName="FFAI_TJH - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B78X" ModelName="FFAI_TJH - Ural" />
@@ -2825,8 +2711,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A19N" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A19N" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A19N" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A19N" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A19N" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A19N" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A19N" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A19N" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A19N" ModelName="FFAI_TJM - Air India Express" />
@@ -2924,9 +2809,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A19N" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A19N" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A19N" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A19N" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A19N" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A19N" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A19N" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A19N" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A19N" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A19N" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -2936,10 +2819,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A19N" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A19N" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A19N" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A19N" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A19N" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A19N" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A19N" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A19N" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A19N" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A19N" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A19N" ModelName="FFAI_TJM - Ural" />
@@ -2989,8 +2869,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A20N" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A20N" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A20N" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A20N" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A20N" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A20N" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A20N" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A20N" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A20N" ModelName="FFAI_TJM - Air India Express" />
@@ -3088,9 +2967,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A20N" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A20N" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A20N" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A20N" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A20N" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A20N" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A20N" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A20N" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A20N" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A20N" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -3100,10 +2977,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A20N" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A20N" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A20N" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A20N" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A20N" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A20N" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A20N" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A20N" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A20N" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A20N" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A20N" ModelName="FFAI_TJM - Ural" />
@@ -3153,8 +3027,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A21N" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A21N" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A21N" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A21N" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A21N" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A21N" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A21N" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A21N" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A21N" ModelName="FFAI_TJM - Air India Express" />
@@ -3252,9 +3125,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A21N" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A21N" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A21N" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A21N" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A21N" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A21N" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A21N" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A21N" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A21N" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A21N" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -3264,10 +3135,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A21N" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A21N" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A21N" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A21N" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A21N" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A21N" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A21N" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A21N" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A21N" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A21N" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A21N" ModelName="FFAI_TJM - Ural" />
@@ -3317,8 +3185,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A319" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A319" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A319" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A319" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A319" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A319" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A319" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A319" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A319" ModelName="FFAI_TJM - Air India Express" />
@@ -3416,9 +3283,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A319" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A319" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A319" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A319" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A319" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A319" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A319" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A319" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A319" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A319" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -3428,10 +3293,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A319" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A319" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A319" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A319" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A319" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A319" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A319" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A319" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A319" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A319" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A319" ModelName="FFAI_TJM - Ural" />
@@ -3481,8 +3343,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A320" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A320" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A320" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A320" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A320" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A320" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A320" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A320" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A320" ModelName="FFAI_TJM - Air India Express" />
@@ -3580,9 +3441,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A320" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A320" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A320" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A320" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A320" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A320" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A320" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A320" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A320" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A320" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -3592,10 +3451,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A320" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A320" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A320" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A320" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A320" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A320" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A320" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A320" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A320" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A320" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A320" ModelName="FFAI_TJM - Ural" />
@@ -3645,8 +3501,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="A321" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="A321" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="A321" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A321" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A321" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="A321" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="A321" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="A321" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="A321" ModelName="FFAI_TJM - Air India Express" />
@@ -3744,9 +3599,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="A321" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="A321" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="A321" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A321" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A321" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A321" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="A321" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="A321" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="A321" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="A321" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -3756,10 +3609,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="A321" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="A321" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="A321" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A321" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A321" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A321" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A321" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="A321" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="A321" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="A321" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="A321" ModelName="FFAI_TJM - Ural" />
@@ -3809,8 +3659,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B37M" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B37M" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B37M" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B37M" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B37M" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B37M" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B37M" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B37M" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B37M" ModelName="FFAI_TJM - Air India Express" />
@@ -3908,9 +3757,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B37M" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B37M" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B37M" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B37M" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B37M" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B37M" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B37M" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B37M" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B37M" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B37M" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -3920,10 +3767,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B37M" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B37M" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B37M" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B37M" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B37M" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B37M" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B37M" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B37M" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B37M" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B37M" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B37M" ModelName="FFAI_TJM - Ural" />
@@ -3973,8 +3817,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B38M" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B38M" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B38M" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B38M" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B38M" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B38M" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B38M" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B38M" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B38M" ModelName="FFAI_TJM - Air India Express" />
@@ -4072,9 +3915,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B38M" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B38M" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B38M" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B38M" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B38M" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B38M" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B38M" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B38M" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B38M" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B38M" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -4084,10 +3925,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B38M" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B38M" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B38M" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B38M" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B38M" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B38M" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B38M" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B38M" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B38M" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B38M" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B38M" ModelName="FFAI_TJM - Ural" />
@@ -4137,8 +3975,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B39M" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B39M" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B39M" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B39M" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B39M" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B39M" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B39M" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B39M" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B39M" ModelName="FFAI_TJM - Air India Express" />
@@ -4236,9 +4073,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B39M" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B39M" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B39M" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B39M" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B39M" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B39M" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B39M" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B39M" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B39M" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B39M" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -4248,10 +4083,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B39M" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B39M" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B39M" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B39M" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B39M" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B39M" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B39M" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B39M" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B39M" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B39M" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B39M" ModelName="FFAI_TJM - Ural" />
@@ -4301,8 +4133,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B732" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B732" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B732" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B732" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B732" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B732" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B732" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B732" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B732" ModelName="FFAI_TJM - Air India Express" />
@@ -4400,9 +4231,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B732" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B732" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B732" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B732" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B732" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B732" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B732" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B732" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B732" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B732" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -4412,10 +4241,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B732" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B732" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B732" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B732" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B732" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B732" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B732" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B732" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B732" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B732" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B732" ModelName="FFAI_TJM - Ural" />
@@ -4465,8 +4291,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B733" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B733" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B733" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B733" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B733" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B733" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B733" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B733" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B733" ModelName="FFAI_TJM - Air India Express" />
@@ -4564,9 +4389,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B733" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B733" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B733" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B733" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B733" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B733" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B733" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B733" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B733" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B733" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -4576,10 +4399,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B733" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B733" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B733" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B733" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B733" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B733" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B733" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B733" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B733" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B733" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B733" ModelName="FFAI_TJM - Ural" />
@@ -4629,8 +4449,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B734" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B734" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B734" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B734" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B734" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B734" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B734" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B734" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B734" ModelName="FFAI_TJM - Air India Express" />
@@ -4728,9 +4547,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B734" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B734" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B734" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B734" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B734" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B734" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B734" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B734" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B734" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B734" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -4740,10 +4557,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B734" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B734" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B734" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B734" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B734" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B734" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B734" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B734" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B734" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B734" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B734" ModelName="FFAI_TJM - Ural" />
@@ -4793,8 +4607,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B735" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B735" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B735" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B735" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B735" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B735" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B735" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B735" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B735" ModelName="FFAI_TJM - Air India Express" />
@@ -4892,9 +4705,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B735" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B735" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B735" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B735" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B735" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B735" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B735" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B735" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B735" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B735" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -4904,10 +4715,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B735" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B735" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B735" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B735" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B735" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B735" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B735" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B735" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B735" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B735" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B735" ModelName="FFAI_TJM - Ural" />
@@ -4957,8 +4765,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B736" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B736" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B736" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B736" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B736" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B736" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B736" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B736" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B736" ModelName="FFAI_TJM - Air India Express" />
@@ -5056,9 +4863,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B736" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B736" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B736" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B736" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B736" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B736" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B736" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B736" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B736" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B736" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -5068,10 +4873,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B736" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B736" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B736" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B736" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B736" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B736" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B736" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B736" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B736" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B736" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B736" ModelName="FFAI_TJM - Ural" />
@@ -5121,8 +4923,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B737" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B737" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B737" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B737" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B737" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B737" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B737" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B737" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B737" ModelName="FFAI_TJM - Air India Express" />
@@ -5220,9 +5021,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B737" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B737" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B737" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B737" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B737" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B737" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B737" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B737" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B737" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B737" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -5232,10 +5031,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B737" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B737" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B737" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B737" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B737" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B737" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B737" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B737" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B737" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B737" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B737" ModelName="FFAI_TJM - Ural" />
@@ -5285,8 +5081,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B738" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B738" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B738" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B738" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B738" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B738" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B738" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B738" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B738" ModelName="FFAI_TJM - Air India Express" />
@@ -5384,9 +5179,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B738" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B738" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B738" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B738" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B738" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B738" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B738" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B738" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B738" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B738" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -5396,10 +5189,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B738" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B738" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B738" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B738" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B738" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B738" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B738" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B738" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B738" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B738" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B738" ModelName="FFAI_TJM - Ural" />
@@ -5449,8 +5239,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B739" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B739" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B739" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B739" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B739" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B739" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B739" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B739" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B739" ModelName="FFAI_TJM - Air India Express" />
@@ -5548,9 +5337,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B739" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B739" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B739" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B739" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B739" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B739" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B739" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B739" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B739" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B739" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -5560,10 +5347,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B739" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B739" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B739" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B739" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B739" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B739" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B739" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B739" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B739" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B739" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B739" ModelName="FFAI_TJM - Ural" />
@@ -5613,8 +5397,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B752" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B752" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B752" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B752" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B752" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B752" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B752" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B752" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B752" ModelName="FFAI_TJM - Air India Express" />
@@ -5712,9 +5495,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B752" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B752" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B752" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B752" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B752" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B752" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B752" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B752" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B752" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B752" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -5724,10 +5505,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B752" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B752" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B752" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B752" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B752" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B752" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B752" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B752" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B752" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B752" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B752" ModelName="FFAI_TJM - Ural" />
@@ -5777,8 +5555,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="B753" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="B753" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="B753" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B753" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B753" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="B753" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="B753" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="B753" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="B753" ModelName="FFAI_TJM - Air India Express" />
@@ -5876,9 +5653,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="B753" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B753" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="B753" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B753" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B753" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B753" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="B753" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="B753" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="B753" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="B753" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -5888,10 +5663,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="B753" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="B753" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="B753" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B753" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B753" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B753" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B753" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="B753" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="B753" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="B753" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="B753" ModelName="FFAI_TJM - Ural" />
@@ -5941,8 +5713,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="E170" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="E170" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="E170" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E170" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E170" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E170" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="E170" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="E170" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="E170" ModelName="FFAI_TJM - Air India Express" />
@@ -6040,9 +5811,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="E170" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="E170" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="E170" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E170" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E170" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E170" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E170" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="E170" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="E170" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="E170" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -6052,10 +5821,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="E170" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="E170" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="E170" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E170" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E170" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E170" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E170" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E170" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="E170" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="E170" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="E170" ModelName="FFAI_TJM - Ural" />
@@ -6105,8 +5871,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="E190" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="E190" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="E190" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E190" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E190" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E190" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="E190" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="E190" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="E190" ModelName="FFAI_TJM - Air India Express" />
@@ -6204,9 +5969,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="E190" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="E190" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="E190" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E190" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E190" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E190" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E190" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="E190" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="E190" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="E190" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -6216,10 +5979,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="E190" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="E190" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="E190" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E190" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E190" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E190" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E190" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E190" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="E190" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="E190" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="E190" ModelName="FFAI_TJM - Ural" />
@@ -6269,8 +6029,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="E75L" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="E75L" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="E75L" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E75L" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E75L" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E75L" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="E75L" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="E75L" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="E75L" ModelName="FFAI_TJM - Air India Express" />
@@ -6368,9 +6127,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="E75L" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="E75L" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="E75L" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E75L" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E75L" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E75L" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E75L" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="E75L" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="E75L" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="E75L" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -6380,10 +6137,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="E75L" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="E75L" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="E75L" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75L" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75L" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75L" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75L" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75L" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="E75L" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="E75L" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="E75L" ModelName="FFAI_TJM - Ural" />
@@ -6433,8 +6187,7 @@
   <ModelMatchRule CallsignPrefix="ARE" TypeCode="E75S" ModelName="FFAI_TJM - LATAM Colombia" />
   <ModelMatchRule CallsignPrefix="ASA" TypeCode="E75S" ModelName="FFAI_TJM - Alaska Airlines" />
   <ModelMatchRule CallsignPrefix="ASD" TypeCode="E75S" ModelName="FFAI_TJM - Air Sinai (Egypt Air)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E75S" ModelName="FFAI_TJM - Mesa Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E75S" ModelName="FFAI_TJM - Mesa Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="ASH" TypeCode="E75S" ModelName="FFAI_TJM - Mesa Airlines (AAL)//FFAI_TJM - Mesa Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="AUA" TypeCode="E75S" ModelName="FFAI_TJM - Austrian Airlines" />
   <ModelMatchRule CallsignPrefix="AUI" TypeCode="E75S" ModelName="FFAI_TJM - Ukraine International" />
   <ModelMatchRule CallsignPrefix="AXB" TypeCode="E75S" ModelName="FFAI_TJM - Air India Express" />
@@ -6532,9 +6285,7 @@
   <ModelMatchRule CallsignPrefix="QXE" TypeCode="E75S" ModelName="FFAI_TJM - Horizon Air (Alaska)" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="E75S" ModelName="FFAI_TJM - Tarom" />
   <ModelMatchRule CallsignPrefix="ROU" TypeCode="E75S" ModelName="FFAI_TJM - Air Canada (Rouge)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E75S" ModelName="FFAI_TJM - Republic Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E75S" ModelName="FFAI_TJM - Republic Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E75S" ModelName="FFAI_TJM - Republic Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E75S" ModelName="FFAI_TJM - Republic Airlines (DAL)//FFAI_TJM - Republic Airlines (AAL)//FFAI_TJM - Republic Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="RUK" TypeCode="E75S" ModelName="FFAI_TJM - Ryanair UK" />
   <ModelMatchRule CallsignPrefix="RYR" TypeCode="E75S" ModelName="FFAI_TJM - Ryanair" />
   <ModelMatchRule CallsignPrefix="RYS" TypeCode="E75S" ModelName="FFAI_TJM - Buzz (Ryanair)" />
@@ -6544,10 +6295,7 @@
   <ModelMatchRule CallsignPrefix="SHT" TypeCode="E75S" ModelName="FFAI_TJM - British Airways (Shuttle)" />
   <ModelMatchRule CallsignPrefix="SIA" TypeCode="E75S" ModelName="FFAI_TJM - Singapore Airlines" />
   <ModelMatchRule CallsignPrefix="SKV" TypeCode="E75S" ModelName="FFAI_TJM - Air Canada Express (Maple)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75S" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75S" ModelName="FFAI_TJM - SkyWest Airlines (DAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75S" ModelName="FFAI_TJM - SkyWest Airlines (AAL)" />
-  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75S" ModelName="FFAI_TJM - SkyWest Airlines (UAL)" />
+  <ModelMatchRule CallsignPrefix="SKW" TypeCode="E75S" ModelName="FFAI_TJM - SkyWest Airlines (Alaska)//FFAI_TJM - SkyWest Airlines (DAL)//FFAI_TJM - SkyWest Airlines (AAL)//FFAI_TJM - SkyWest Airlines (UAL)" />
   <ModelMatchRule CallsignPrefix="SLI" TypeCode="E75S" ModelName="FFAI_TJM - Aeromexico Connect" />
   <ModelMatchRule CallsignPrefix="SVA" TypeCode="E75S" ModelName="FFAI_TJM - Saudia" />
   <ModelMatchRule CallsignPrefix="SVR" TypeCode="E75S" ModelName="FFAI_TJM - Ural" />
