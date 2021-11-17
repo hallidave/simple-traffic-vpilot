@@ -2,11 +2,14 @@ import os
 import configparser
 import json
 
-start_dir = "D:\\Aerosoft One Library\\Add-ons\\msfs-f52a-AS15423\\gameDirectory~Community"
+start_dir = (
+    "D:\\Aerosoft One Library\\Add-ons\\msfs-f52a-AS15423\\gameDirectory~Community"
+)
 
 src_dir = os.path.dirname(os.path.realpath(__file__))
 data_dir = os.path.join(src_dir, "..", "data")
 liveries_file = os.path.join(data_dir, "liveries.json")
+
 
 def parse_liveries(liveries, config):
     if "GENERAL" in config:
@@ -26,7 +29,7 @@ def parse_liveries(liveries, config):
                 liveries.setdefault(icao_model, {})
                 liveries[icao_model].setdefault(icao_WTC, []).extend(models)
     return liveries
-            
+
 
 def scan(start_dir):
     liveries = {}
@@ -39,5 +42,6 @@ def scan(start_dir):
                 if liveries:
                     with open(liveries_file, "w") as f:
                         json.dump(liveries, f, sort_keys=True, indent=2)
+
 
 scan(start_dir)
