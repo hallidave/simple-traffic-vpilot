@@ -16,14 +16,18 @@ def parse_liveries(liveries, config):
         general = config["GENERAL"]
         icao_generic = general.getboolean("icao_generic")
         if icao_generic:
-            icao_model = general.get("icao_model").strip('"').lower()
-            icao_WTC = general.get("icao_WTC").strip('"').upper()
+            icao_model = general["icao_model"].strip('"').lower()
+            icao_WTC = general["icao_WTC"].strip('"').upper()
             models = []
             for section_name in config.sections():
                 if section_name.startswith("FLTSIM."):
                     section = config[section_name]
-                    title = section.get("title").strip('"')
-                    icao_airline = section.get("icao_airline").strip('"')
+                    title = section["title"].strip('"')
+                    icao_airline = section.get("icao_airline")
+                    if icao_airline == None:
+                        continue
+                    else:
+                        icao_airline = icao_airline.strip('"')
                     models.append({"title": title, "icao_airline": icao_airline})
             if models:
                 liveries.setdefault(icao_model, {})
