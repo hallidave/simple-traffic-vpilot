@@ -3,55 +3,75 @@
     "H": [
       {
         "icao_airline": "",
-        "title": "FFAI_QJ - Default"
+        "title": "FFAI_QJH - Default"
       },
       {
         "icao_airline": "CCA",
-        "title": "FFAI_QJ - Air China"
+        "title": "FFAI_QJH - Air China"
       },
       {
         "icao_airline": "CAO",
-        "title": "FFAI_QJ - Air China Cargo"
+        "title": "FFAI_QJH - Air China Cargo"
       },
       {
         "icao_airline": "AFR",
-        "title": "FFAI_QJ - Air France"
+        "title": "FFAI_QJH - Air France"
       },
       {
         "icao_airline": "ANA",
-        "title": "FFAI_QJ - All Nippon Airways"
+        "title": "FFAI_QJH - All Nippon Airways"
+      },
+      {
+        "icao_airline": "GTI",
+        "title": "FFAI_QJH - Atlas Air"
       },
       {
         "icao_airline": "BAW",
-        "title": "FFAI_QJ - British Airways"
+        "title": "FFAI_QJH - British Airways"
       },
       {
         "icao_airline": "CPA",
-        "title": "FFAI_QJ - Cathay Pacific"
+        "title": "FFAI_QJH - Cathay Pacific"
       },
       {
         "icao_airline": "UAE",
-        "title": "FFAI_QJ - Emirates"
+        "title": "FFAI_QJH - Emirates"
+      },
+      {
+        "icao_airline": "UAEX",
+        "title": "FFAI_QJH - Emirates SkyCargo"
       },
       {
         "icao_airline": "DLH",
-        "title": "FFAI_QJ - Lufthansa"
+        "title": "FFAI_QJH - Lufthansa"
+      },
+      {
+        "icao_airline": "MPH",
+        "title": "FFAI_QJH - Martinair"
       },
       {
         "icao_airline": "QFA",
-        "title": "FFAI_QJ - Qantas"
+        "title": "FFAI_QJH - Qantas"
       },
       {
         "icao_airline": "QTR",
-        "title": "FFAI_QJ - Qatar Airways"
+        "title": "FFAI_QJH - Qatar Airways"
+      },
+      {
+        "icao_airline": "QTRX",
+        "title": "FFAI_QJH - Qatar Airways Cargo"
       },
       {
         "icao_airline": "SIA",
-        "title": "FFAI_QJ - Singapore Airlines"
+        "title": "FFAI_QJH - Singapore Airlines"
+      },
+      {
+        "icao_airline": "THYX",
+        "title": "FFAI_QJH - Turkish Airlines Cargo"
       },
       {
         "icao_airline": "UPS",
-        "title": "FFAI_QJ - UPS Airlines"
+        "title": "FFAI_QJH - UPS Airlines"
       }
     ]
   },
@@ -404,6 +424,26 @@
         "title": "FFAI_TJH - Aeromexico Connect"
       },
       {
+        "icao_airline": "ABY",
+        "title": "FFAI_TJH - Air Arabia"
+      },
+      {
+        "icao_airline": "RBG",
+        "title": "FFAI_TJH - Air Arabia Egypt"
+      },
+      {
+        "icao_airline": "JAD",
+        "title": "FFAI_TJH - Air Arabia Jordan"
+      },
+      {
+        "icao_airline": "MAC",
+        "title": "FFAI_TJH - Air Arabia Maroc"
+      },
+      {
+        "icao_airline": "BTI",
+        "title": "FFAI_TJH - Air Baltic"
+      },
+      {
         "icao_airline": "ACA",
         "title": "FFAI_TJH - Air Canada"
       },
@@ -430,6 +470,10 @@
       {
         "icao_airline": "CMN",
         "title": "FFAI_TJH - Air China Inner Mongolia"
+      },
+      {
+        "icao_airline": "AEA",
+        "title": "FFAI_TJH - Air Europa"
       },
       {
         "icao_airline": "AFR",
@@ -466,6 +510,10 @@
       {
         "icao_airline": "ASD",
         "title": "FFAI_TJH - Air Sinai (Egypt Air)"
+      },
+      {
+        "icao_airline": "TSC",
+        "title": "FFAI_TJH - Air Transat"
       },
       {
         "icao_airline": "AXM",
@@ -516,8 +564,36 @@
         "title": "FFAI_TJH - Asiana Airlines"
       },
       {
+        "icao_airline": "GTI",
+        "title": "FFAI_TJH - Atlas Air"
+      },
+      {
         "icao_airline": "AUA",
         "title": "FFAI_TJH - Austrian Airlines"
+      },
+      {
+        "icao_airline": "AVA",
+        "title": "FFAI_TJH - Avianca"
+      },
+      {
+        "icao_airline": "LRC",
+        "title": "FFAI_TJH - Avianca Costa Rica"
+      },
+      {
+        "icao_airline": "GLG",
+        "title": "FFAI_TJH - Avianca Ecuador"
+      },
+      {
+        "icao_airline": "TAI",
+        "title": "FFAI_TJH - Avianca El Salvador"
+      },
+      {
+        "icao_airline": "GUG",
+        "title": "FFAI_TJH - Avianca Guatemala"
+      },
+      {
+        "icao_airline": "ISV",
+        "title": "FFAI_TJH - Avianca Honduras"
       },
       {
         "icao_airline": "AZU",
@@ -564,6 +640,22 @@
         "title": "FFAI_TJH - China Southern Airlines"
       },
       {
+        "icao_airline": "CTV",
+        "title": "FFAI_TJH - Citilink"
+      },
+      {
+        "icao_airline": "CFG",
+        "title": "FFAI_TJH - Condor"
+      },
+      {
+        "icao_airline": "CND",
+        "title": "FFAI_TJH - Corendon Dutch Airlines"
+      },
+      {
+        "icao_airline": "CSA",
+        "title": "FFAI_TJH - Czech Airlines"
+      },
+      {
         "icao_airline": "DAL",
         "title": "FFAI_TJH - Delta Air Lines"
       },
@@ -592,12 +684,20 @@
         "title": "FFAI_TJH - easyJet UK"
       },
       {
+        "icao_airline": "EDW",
+        "title": "FFAI_TJH - Edelweiss Air"
+      },
+      {
         "icao_airline": "MSR",
         "title": "FFAI_TJH - Egypt Air"
       },
       {
         "icao_airline": "UAE",
         "title": "FFAI_TJH - Emirates"
+      },
+      {
+        "icao_airline": "UAEX",
+        "title": "FFAI_TJH - Emirates SkyCargo"
       },
       {
         "icao_airline": "ENY",
@@ -624,6 +724,10 @@
         "title": "FFAI_TJH - Eurowings Europe"
       },
       {
+        "icao_airline": "EVA",
+        "title": "FFAI_TJH - EVA Air"
+      },
+      {
         "icao_airline": "FDX",
         "title": "FFAI_TJH - FedEx"
       },
@@ -634,6 +738,10 @@
       {
         "icao_airline": "FFT",
         "title": "FFAI_TJH - Frontier"
+      },
+      {
+        "icao_airline": "GIA",
+        "title": "FFAI_TJH - Garuda Indonesia"
       },
       {
         "icao_airline": "GLO",
@@ -689,7 +797,7 @@
       },
       {
         "icao_airline": "IZM",
-        "title": "FFAI_TJH - \u00c4\u00b0zmir Airlines (Pegasus)"
+        "title": "FFAI_TJH - Izmir Airlines (Pegasus)"
       },
       {
         "icao_airline": "JLJ",
@@ -702,6 +810,10 @@
       {
         "icao_airline": "JTA",
         "title": "FFAI_TJH - Japan Transocean Air"
+      },
+      {
+        "icao_airline": "EXS",
+        "title": "FFAI_TJH - Jet2"
       },
       {
         "icao_airline": "JBU",
@@ -832,24 +944,24 @@
         "title": "FFAI_TJH - Nordic Regional Airlines (Finnair)"
       },
       {
-        "icao_airline": "IBK",
-        "title": "FFAI_TJH - Norwegian Air International"
-      },
-      {
         "icao_airline": "NAN",
         "title": "FFAI_TJH - Norwegian Air Norway"
       },
       {
-        "icao_airline": "NAX",
+        "icao_airline": "NOZ",
         "title": "FFAI_TJH - Norwegian Air Shuttle"
       },
       {
-        "icao_airline": "NSW",
+        "icao_airline": "NSZ",
         "title": "FFAI_TJH - Norwegian Air Sweden"
       },
       {
         "icao_airline": "PGT",
         "title": "FFAI_TJH - Pegasus Airlines"
+      },
+      {
+        "icao_airline": "PAL",
+        "title": "FFAI_TJH - Philippine Air Lines"
       },
       {
         "icao_airline": "APG",
@@ -880,6 +992,10 @@
         "title": "FFAI_TJH - Qatar Airways"
       },
       {
+        "icao_airline": "QTRX",
+        "title": "FFAI_TJH - Qatar Airways Cargo"
+      },
+      {
         "icao_airline": "QAF",
         "title": "FFAI_TJH - Qatar Amiri Flight"
       },
@@ -894,6 +1010,10 @@
       {
         "icao_airline": "RPA",
         "title": "FFAI_TJH - Republic Airlines (UAL)"
+      },
+      {
+        "icao_airline": "SDM",
+        "title": "FFAI_TJH - Rossiya Airlines"
       },
       {
         "icao_airline": "RYR",
@@ -952,6 +1072,14 @@
         "title": "FFAI_TJH - SkyWest Airlines (UAL)"
       },
       {
+        "icao_airline": "SAA",
+        "title": "FFAI_TJH - South African Airways"
+      },
+      {
+        "icao_airline": "SOO",
+        "title": "FFAI_TJH - Southern Air"
+      },
+      {
         "icao_airline": "SWA",
         "title": "FFAI_TJH - Southwest Airlines"
       },
@@ -976,6 +1104,10 @@
         "title": "FFAI_TJH - Swiss International Air Lines"
       },
       {
+        "icao_airline": "WSW",
+        "title": "FFAI_TJH - Swoop"
+      },
+      {
         "icao_airline": "TAP",
         "title": "FFAI_TJH - TAP Air Portugal"
       },
@@ -986,6 +1118,10 @@
       {
         "icao_airline": "ROT",
         "title": "FFAI_TJH - Tarom"
+      },
+      {
+        "icao_airline": "AIQ",
+        "title": "FFAI_TJH - Thai AirAsia"
       },
       {
         "icao_airline": "TAX",
@@ -1032,6 +1168,10 @@
         "title": "FFAI_TJH - Turkish Airlines"
       },
       {
+        "icao_airline": "THYX",
+        "title": "FFAI_TJH - Turkish Airlines Cargo"
+      },
+      {
         "icao_airline": "AUI",
         "title": "FFAI_TJH - Ukraine International"
       },
@@ -1048,8 +1188,16 @@
         "title": "FFAI_TJH - Ural"
       },
       {
+        "icao_airline": "UTA",
+        "title": "FFAI_TJH - UTair"
+      },
+      {
         "icao_airline": "VLU",
         "title": "FFAI_TJH - Valuair (Jetstar)"
+      },
+      {
+        "icao_airline": "HVN",
+        "title": "FFAI_TJH - Vietnam Airlines"
       },
       {
         "icao_airline": "VIR",
@@ -1058,6 +1206,10 @@
       {
         "icao_airline": "VOZ",
         "title": "FFAI_TJH - Virgin Australia"
+      },
+      {
+        "icao_airline": "VTI",
+        "title": "FFAI_TJH - Vistara"
       },
       {
         "icao_airline": "VIV",
@@ -1084,6 +1236,10 @@
         "title": "FFAI_TJH - WestJet"
       },
       {
+        "icao_airline": "WIF",
+        "title": "FFAI_TJH - Wideroe"
+      },
+      {
         "icao_airline": "WZZ",
         "title": "FFAI_TJH - Wizz Air"
       },
@@ -1094,6 +1250,10 @@
       {
         "icao_airline": "WUK",
         "title": "FFAI_TJH - Wizz Air UK"
+      },
+      {
+        "icao_airline": "CXA",
+        "title": "FFAI_TJH - XiamenAir"
       }
     ],
     "M": [
@@ -1126,6 +1286,26 @@
         "title": "FFAI_TJM - Aeromexico Connect"
       },
       {
+        "icao_airline": "ABY",
+        "title": "FFAI_TJM - Air Arabia"
+      },
+      {
+        "icao_airline": "RBG",
+        "title": "FFAI_TJM - Air Arabia Egypt"
+      },
+      {
+        "icao_airline": "JAD",
+        "title": "FFAI_TJM - Air Arabia Jordan"
+      },
+      {
+        "icao_airline": "MAC",
+        "title": "FFAI_TJM - Air Arabia Maroc"
+      },
+      {
+        "icao_airline": "BTI",
+        "title": "FFAI_TJM - Air Baltic"
+      },
+      {
         "icao_airline": "ACA",
         "title": "FFAI_TJM - Air Canada"
       },
@@ -1152,6 +1332,10 @@
       {
         "icao_airline": "CMN",
         "title": "FFAI_TJM - Air China Inner Mongolia"
+      },
+      {
+        "icao_airline": "AEA",
+        "title": "FFAI_TJM - Air Europa"
       },
       {
         "icao_airline": "AFR",
@@ -1188,6 +1372,10 @@
       {
         "icao_airline": "ASD",
         "title": "FFAI_TJM - Air Sinai (Egypt Air)"
+      },
+      {
+        "icao_airline": "TSC",
+        "title": "FFAI_TJM - Air Transat"
       },
       {
         "icao_airline": "AXM",
@@ -1238,8 +1426,36 @@
         "title": "FFAI_TJM - Asiana Airlines"
       },
       {
+        "icao_airline": "GTI",
+        "title": "FFAI_TJM - Atlas Air"
+      },
+      {
         "icao_airline": "AUA",
         "title": "FFAI_TJM - Austrian Airlines"
+      },
+      {
+        "icao_airline": "AVA",
+        "title": "FFAI_TJM - Avianca"
+      },
+      {
+        "icao_airline": "LRC",
+        "title": "FFAI_TJM - Avianca Costa Rica"
+      },
+      {
+        "icao_airline": "GLG",
+        "title": "FFAI_TJM - Avianca Ecuador"
+      },
+      {
+        "icao_airline": "TAI",
+        "title": "FFAI_TJM - Avianca El Salvador"
+      },
+      {
+        "icao_airline": "GUG",
+        "title": "FFAI_TJM - Avianca Guatemala"
+      },
+      {
+        "icao_airline": "ISV",
+        "title": "FFAI_TJM - Avianca Honduras"
       },
       {
         "icao_airline": "AZU",
@@ -1286,6 +1502,22 @@
         "title": "FFAI_TJM - China Southern Airlines"
       },
       {
+        "icao_airline": "CTV",
+        "title": "FFAI_TJM - Citilink"
+      },
+      {
+        "icao_airline": "CFG",
+        "title": "FFAI_TJM - Condor"
+      },
+      {
+        "icao_airline": "CND",
+        "title": "FFAI_TJM - Corendon Dutch Airlines"
+      },
+      {
+        "icao_airline": "CSA",
+        "title": "FFAI_TJM - Czech Airlines"
+      },
+      {
         "icao_airline": "DAL",
         "title": "FFAI_TJM - Delta Air Lines"
       },
@@ -1314,12 +1546,20 @@
         "title": "FFAI_TJM - easyJet UK"
       },
       {
+        "icao_airline": "EDW",
+        "title": "FFAI_TJM - Edelweiss Air"
+      },
+      {
         "icao_airline": "MSR",
         "title": "FFAI_TJM - Egypt Air"
       },
       {
         "icao_airline": "UAE",
         "title": "FFAI_TJM - Emirates"
+      },
+      {
+        "icao_airline": "UAEX",
+        "title": "FFAI_TJM - Emirates SkyCargo"
       },
       {
         "icao_airline": "ENY",
@@ -1346,6 +1586,10 @@
         "title": "FFAI_TJM - Eurowings Europe"
       },
       {
+        "icao_airline": "EVA",
+        "title": "FFAI_TJM - EVA Air"
+      },
+      {
         "icao_airline": "FDX",
         "title": "FFAI_TJM - FedEx"
       },
@@ -1356,6 +1600,10 @@
       {
         "icao_airline": "FFT",
         "title": "FFAI_TJM - Frontier"
+      },
+      {
+        "icao_airline": "GIA",
+        "title": "FFAI_TJM - Garuda Indonesia"
       },
       {
         "icao_airline": "GLO",
@@ -1411,7 +1659,7 @@
       },
       {
         "icao_airline": "IZM",
-        "title": "FFAI_TJM - \u00c4\u00b0zmir Airlines (Pegasus)"
+        "title": "FFAI_TJM - Izmir Airlines (Pegasus)"
       },
       {
         "icao_airline": "JLJ",
@@ -1424,6 +1672,10 @@
       {
         "icao_airline": "JTA",
         "title": "FFAI_TJM - Japan Transocean Air"
+      },
+      {
+        "icao_airline": "EXS",
+        "title": "FFAI_TJM - Jet2"
       },
       {
         "icao_airline": "JBU",
@@ -1554,24 +1806,24 @@
         "title": "FFAI_TJM - Nordic Regional Airlines (Finnair)"
       },
       {
-        "icao_airline": "IBK",
-        "title": "FFAI_TJM - Norwegian Air International"
-      },
-      {
         "icao_airline": "NAN",
         "title": "FFAI_TJM - Norwegian Air Norway"
       },
       {
-        "icao_airline": "NAX",
+        "icao_airline": "NOZ",
         "title": "FFAI_TJM - Norwegian Air Shuttle"
       },
       {
-        "icao_airline": "NSW",
+        "icao_airline": "NSZ",
         "title": "FFAI_TJM - Norwegian Air Sweden"
       },
       {
         "icao_airline": "PGT",
         "title": "FFAI_TJM - Pegasus Airlines"
+      },
+      {
+        "icao_airline": "PAL",
+        "title": "FFAI_TJM - Philippine Air Lines"
       },
       {
         "icao_airline": "APG",
@@ -1602,6 +1854,10 @@
         "title": "FFAI_TJM - Qatar Airways"
       },
       {
+        "icao_airline": "QTRX",
+        "title": "FFAI_TJM - Qatar Airways Cargo"
+      },
+      {
         "icao_airline": "QAF",
         "title": "FFAI_TJM - Qatar Amiri Flight"
       },
@@ -1616,6 +1872,10 @@
       {
         "icao_airline": "RPA",
         "title": "FFAI_TJM - Republic Airlines (UAL)"
+      },
+      {
+        "icao_airline": "SDM",
+        "title": "FFAI_TJM - Rossiya Airlines"
       },
       {
         "icao_airline": "RYR",
@@ -1674,6 +1934,14 @@
         "title": "FFAI_TJM - SkyWest Airlines (UAL)"
       },
       {
+        "icao_airline": "SAA",
+        "title": "FFAI_TJM - South African Airways"
+      },
+      {
+        "icao_airline": "SOO",
+        "title": "FFAI_TJM - Southern Air"
+      },
+      {
         "icao_airline": "SWA",
         "title": "FFAI_TJM - Southwest Airlines"
       },
@@ -1698,6 +1966,10 @@
         "title": "FFAI_TJM - Swiss International Air Lines"
       },
       {
+        "icao_airline": "WSW",
+        "title": "FFAI_TJM - Swoop"
+      },
+      {
         "icao_airline": "TAP",
         "title": "FFAI_TJM - TAP Air Portugal"
       },
@@ -1708,6 +1980,10 @@
       {
         "icao_airline": "ROT",
         "title": "FFAI_TJM - Tarom"
+      },
+      {
+        "icao_airline": "AIQ",
+        "title": "FFAI_TJM - Thai AirAsia"
       },
       {
         "icao_airline": "TAX",
@@ -1754,6 +2030,10 @@
         "title": "FFAI_TJM - Turkish Airlines"
       },
       {
+        "icao_airline": "THYX",
+        "title": "FFAI_TJM - Turkish Airlines Cargo"
+      },
+      {
         "icao_airline": "AUI",
         "title": "FFAI_TJM - Ukraine International"
       },
@@ -1770,8 +2050,16 @@
         "title": "FFAI_TJM - Ural"
       },
       {
+        "icao_airline": "UTA",
+        "title": "FFAI_TJM - UTair"
+      },
+      {
         "icao_airline": "VLU",
         "title": "FFAI_TJM - Valuair (Jetstar)"
+      },
+      {
+        "icao_airline": "HVN",
+        "title": "FFAI_TJM - Vietnam Airlines"
       },
       {
         "icao_airline": "VIR",
@@ -1780,6 +2068,10 @@
       {
         "icao_airline": "VOZ",
         "title": "FFAI_TJM - Virgin Australia"
+      },
+      {
+        "icao_airline": "VTI",
+        "title": "FFAI_TJM - Vistara"
       },
       {
         "icao_airline": "VIV",
@@ -1806,6 +2098,10 @@
         "title": "FFAI_TJM - WestJet"
       },
       {
+        "icao_airline": "WIF",
+        "title": "FFAI_TJM - Wideroe"
+      },
+      {
         "icao_airline": "WZZ",
         "title": "FFAI_TJM - Wizz Air"
       },
@@ -1816,6 +2112,10 @@
       {
         "icao_airline": "WUK",
         "title": "FFAI_TJM - Wizz Air UK"
+      },
+      {
+        "icao_airline": "CXA",
+        "title": "FFAI_TJM - XiamenAir"
       }
     ]
   }
