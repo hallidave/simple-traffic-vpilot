@@ -30,6 +30,14 @@
         "title": "FFAI_QJH - British Airways"
       },
       {
+        "icao_airline": "CLX",
+        "title": "FFAI_QJH - Cargolux Airlines International"
+      },
+      {
+        "icao_airline": "ICV",
+        "title": "FFAI_QJH - Cargolux Italia"
+      },
+      {
         "icao_airline": "CPA",
         "title": "FFAI_QJH - Cathay Pacific"
       },
@@ -38,8 +46,12 @@
         "title": "FFAI_QJH - Emirates"
       },
       {
-        "icao_airline": "UAEX",
+        "icao_airline": "UAE",
         "title": "FFAI_QJH - Emirates SkyCargo"
+      },
+      {
+        "icao_airline": "CKS",
+        "title": "FFAI_QJH - Kalitta Air"
       },
       {
         "icao_airline": "DLH",
@@ -58,7 +70,7 @@
         "title": "FFAI_QJH - Qatar Airways"
       },
       {
-        "icao_airline": "QTRX",
+        "icao_airline": "QTR",
         "title": "FFAI_QJH - Qatar Airways Cargo"
       },
       {
@@ -66,7 +78,7 @@
         "title": "FFAI_QJH - Singapore Airlines"
       },
       {
-        "icao_airline": "THYX",
+        "icao_airline": "THY",
         "title": "FFAI_QJH - Turkish Airlines Cargo"
       },
       {
@@ -424,6 +436,10 @@
         "title": "FFAI_TJH - Aeromexico Connect"
       },
       {
+        "icao_airline": "DAH",
+        "title": "FFAI_TJH - Air Algerie"
+      },
+      {
         "icao_airline": "ABY",
         "title": "FFAI_TJH - Air Arabia"
       },
@@ -500,12 +516,20 @@
         "title": "FFAI_TJH - Air Japan (ANA)"
       },
       {
+        "icao_airline": "AMC",
+        "title": "FFAI_TJH - Air Malta"
+      },
+      {
         "icao_airline": "MBB",
         "title": "FFAI_TJH - Air Manas (Pegasus)"
       },
       {
         "icao_airline": "ANZ",
         "title": "FFAI_TJH - Air New Zealand"
+      },
+      {
+        "icao_airline": "ASL",
+        "title": "FFAI_TJH - Air Serbia"
       },
       {
         "icao_airline": "ASD",
@@ -604,6 +628,10 @@
         "title": "FFAI_TJH - BA CityFlyer"
       },
       {
+        "icao_airline": "BTK",
+        "title": "FFAI_TJH - Batik Air"
+      },
+      {
         "icao_airline": "BLA",
         "title": "FFAI_TJH - Blue Air"
       },
@@ -620,8 +648,20 @@
         "title": "FFAI_TJH - Brussels Airlines"
       },
       {
+        "icao_airline": "BVL",
+        "title": "FFAI_TJH - Bul Air"
+      },
+      {
+        "icao_airline": "LZB",
+        "title": "FFAI_TJH - Bulgaria Air"
+      },
+      {
         "icao_airline": "RYS",
         "title": "FFAI_TJH - Buzz (Ryanair)"
+      },
+      {
+        "icao_airline": "CJT",
+        "title": "FFAI_TJH - Cargojet"
       },
       {
         "icao_airline": "CPA",
@@ -648,8 +688,20 @@
         "title": "FFAI_TJH - Condor"
       },
       {
+        "icao_airline": "CMP",
+        "title": "FFAI_TJH - Copa Airlines"
+      },
+      {
+        "icao_airline": "RPB",
+        "title": "FFAI_TJH - Copa Airlines Colombia"
+      },
+      {
         "icao_airline": "CND",
         "title": "FFAI_TJH - Corendon Dutch Airlines"
+      },
+      {
+        "icao_airline": "CTN",
+        "title": "FFAI_TJH - Croatia Airlines"
       },
       {
         "icao_airline": "CSA",
@@ -692,11 +744,15 @@
         "title": "FFAI_TJH - Egypt Air"
       },
       {
+        "icao_airline": "ELY",
+        "title": "FFAI_TJH - El Al"
+      },
+      {
         "icao_airline": "UAE",
         "title": "FFAI_TJH - Emirates"
       },
       {
-        "icao_airline": "UAEX",
+        "icao_airline": "UAE",
         "title": "FFAI_TJH - Emirates SkyCargo"
       },
       {
@@ -736,6 +792,10 @@
         "title": "FFAI_TJH - Finnair"
       },
       {
+        "icao_airline": "FDB",
+        "title": "FFAI_TJH - FlyDubai"
+      },
+      {
         "icao_airline": "FFT",
         "title": "FFAI_TJH - Frontier"
       },
@@ -744,12 +804,20 @@
         "title": "FFAI_TJH - Garuda Indonesia"
       },
       {
+        "icao_airline": "GOW",
+        "title": "FFAI_TJH - Go First"
+      },
+      {
         "icao_airline": "GLO",
         "title": "FFAI_TJH - Gol Transportes Aereos"
       },
       {
         "icao_airline": "GDC",
         "title": "FFAI_TJH - Grand China Air"
+      },
+      {
+        "icao_airline": "GFA",
+        "title": "FFAI_TJH - Gulf Air"
       },
       {
         "icao_airline": "CHH",
@@ -778,6 +846,10 @@
       {
         "icao_airline": "ANE",
         "title": "FFAI_TJH - Iberia Regional"
+      },
+      {
+        "icao_airline": "ICE",
+        "title": "FFAI_TJH - Icelandair"
       },
       {
         "icao_airline": "IGO",
@@ -834,6 +906,10 @@
       {
         "icao_airline": "DKH",
         "title": "FFAI_TJH - Juneyao Airlines"
+      },
+      {
+        "icao_airline": "KQA",
+        "title": "FFAI_TJH - Kenya Airways"
       },
       {
         "icao_airline": "KLM",
@@ -893,7 +969,7 @@
       },
       {
         "icao_airline": "LPE",
-        "title": "FFAI_TJH - LATAM Per\u00c3\u00ba"
+        "title": "FFAI_TJH - LATAM Peru"
       },
       {
         "icao_airline": "LNI",
@@ -920,6 +996,10 @@
         "title": "FFAI_TJH - Lufthansa CityLine"
       },
       {
+        "icao_airline": "MAS",
+        "title": "FFAI_TJH - Malaysia Airlines"
+      },
+      {
         "icao_airline": "MXD",
         "title": "FFAI_TJH - Malindo Air"
       },
@@ -934,6 +1014,10 @@
       {
         "icao_airline": "ASH",
         "title": "FFAI_TJH - Mesa Airlines (UAL)"
+      },
+      {
+        "icao_airline": "MEA",
+        "title": "FFAI_TJH - Middle East Airlines"
       },
       {
         "icao_airline": "WBA",
@@ -954,6 +1038,18 @@
       {
         "icao_airline": "NSZ",
         "title": "FFAI_TJH - Norwegian Air Sweden"
+      },
+      {
+        "icao_airline": "LBT",
+        "title": "FFAI_TJH - Nouvelair Tunisie"
+      },
+      {
+        "icao_airline": "OMA",
+        "title": "FFAI_TJH - Oman Air"
+      },
+      {
+        "icao_airline": "PIA",
+        "title": "FFAI_TJH - Pakistan International Airlines"
       },
       {
         "icao_airline": "PGT",
@@ -992,12 +1088,16 @@
         "title": "FFAI_TJH - Qatar Airways"
       },
       {
-        "icao_airline": "QTRX",
+        "icao_airline": "QTR",
         "title": "FFAI_TJH - Qatar Airways Cargo"
       },
       {
         "icao_airline": "QAF",
         "title": "FFAI_TJH - Qatar Amiri Flight"
+      },
+      {
+        "icao_airline": "RXA",
+        "title": "FFAI_TJH - Regional Express"
       },
       {
         "icao_airline": "RPA",
@@ -1014,6 +1114,10 @@
       {
         "icao_airline": "SDM",
         "title": "FFAI_TJH - Rossiya Airlines"
+      },
+      {
+        "icao_airline": "RBA",
+        "title": "FFAI_TJH - Royal Brunei"
       },
       {
         "icao_airline": "RYR",
@@ -1038,6 +1142,10 @@
       {
         "icao_airline": "SZS",
         "title": "FFAI_TJH - Scandinavian Airlines Ireland"
+      },
+      {
+        "icao_airline": "TGW",
+        "title": "FFAI_TJH - Scoot"
       },
       {
         "icao_airline": "CDG",
@@ -1094,6 +1202,14 @@
       {
         "icao_airline": "CQH",
         "title": "FFAI_TJH - Spring Airlines"
+      },
+      {
+        "icao_airline": "SCX",
+        "title": "FFAI_TJH - Sun Country Airlines"
+      },
+      {
+        "icao_airline": "SXS",
+        "title": "FFAI_TJH - SunExpress"
       },
       {
         "icao_airline": "YZR",
@@ -1164,11 +1280,15 @@
         "title": "FFAI_TJH - TUI fly Nordic"
       },
       {
+        "icao_airline": "TAR",
+        "title": "FFAI_TJH - Tunisair"
+      },
+      {
         "icao_airline": "THY",
         "title": "FFAI_TJH - Turkish Airlines"
       },
       {
-        "icao_airline": "THYX",
+        "icao_airline": "THY",
         "title": "FFAI_TJH - Turkish Airlines Cargo"
       },
       {
@@ -1286,6 +1406,10 @@
         "title": "FFAI_TJM - Aeromexico Connect"
       },
       {
+        "icao_airline": "DAH",
+        "title": "FFAI_TJM - Air Algerie"
+      },
+      {
         "icao_airline": "ABY",
         "title": "FFAI_TJM - Air Arabia"
       },
@@ -1362,12 +1486,20 @@
         "title": "FFAI_TJM - Air Japan (ANA)"
       },
       {
+        "icao_airline": "AMC",
+        "title": "FFAI_TJM - Air Malta"
+      },
+      {
         "icao_airline": "MBB",
         "title": "FFAI_TJM - Air Manas (Pegasus)"
       },
       {
         "icao_airline": "ANZ",
         "title": "FFAI_TJM - Air New Zealand"
+      },
+      {
+        "icao_airline": "ASL",
+        "title": "FFAI_TJM - Air Serbia"
       },
       {
         "icao_airline": "ASD",
@@ -1466,6 +1598,10 @@
         "title": "FFAI_TJM - BA CityFlyer"
       },
       {
+        "icao_airline": "BTK",
+        "title": "FFAI_TJM - Batik Air"
+      },
+      {
         "icao_airline": "BLA",
         "title": "FFAI_TJM - Blue Air"
       },
@@ -1482,8 +1618,20 @@
         "title": "FFAI_TJM - Brussels Airlines"
       },
       {
+        "icao_airline": "BVL",
+        "title": "FFAI_TJM - Bul Air"
+      },
+      {
+        "icao_airline": "LZB",
+        "title": "FFAI_TJM - Bulgaria Air"
+      },
+      {
         "icao_airline": "RYS",
         "title": "FFAI_TJM - Buzz (Ryanair)"
+      },
+      {
+        "icao_airline": "CJT",
+        "title": "FFAI_TJM - Cargojet"
       },
       {
         "icao_airline": "CPA",
@@ -1510,8 +1658,20 @@
         "title": "FFAI_TJM - Condor"
       },
       {
+        "icao_airline": "CMP",
+        "title": "FFAI_TJM - Copa Airlines"
+      },
+      {
+        "icao_airline": "RPB",
+        "title": "FFAI_TJM - Copa Airlines Colombia"
+      },
+      {
         "icao_airline": "CND",
         "title": "FFAI_TJM - Corendon Dutch Airlines"
+      },
+      {
+        "icao_airline": "CTN",
+        "title": "FFAI_TJM - Croatia Airlines"
       },
       {
         "icao_airline": "CSA",
@@ -1554,11 +1714,15 @@
         "title": "FFAI_TJM - Egypt Air"
       },
       {
+        "icao_airline": "ELY",
+        "title": "FFAI_TJM - El Al"
+      },
+      {
         "icao_airline": "UAE",
         "title": "FFAI_TJM - Emirates"
       },
       {
-        "icao_airline": "UAEX",
+        "icao_airline": "UAE",
         "title": "FFAI_TJM - Emirates SkyCargo"
       },
       {
@@ -1598,6 +1762,10 @@
         "title": "FFAI_TJM - Finnair"
       },
       {
+        "icao_airline": "FDB",
+        "title": "FFAI_TJM - FlyDubai"
+      },
+      {
         "icao_airline": "FFT",
         "title": "FFAI_TJM - Frontier"
       },
@@ -1606,12 +1774,20 @@
         "title": "FFAI_TJM - Garuda Indonesia"
       },
       {
+        "icao_airline": "GOW",
+        "title": "FFAI_TJM - Go First"
+      },
+      {
         "icao_airline": "GLO",
         "title": "FFAI_TJM - Gol Transportes Aereos"
       },
       {
         "icao_airline": "GDC",
         "title": "FFAI_TJM - Grand China Air"
+      },
+      {
+        "icao_airline": "GFA",
+        "title": "FFAI_TJM - Gulf Air"
       },
       {
         "icao_airline": "CHH",
@@ -1640,6 +1816,10 @@
       {
         "icao_airline": "ANE",
         "title": "FFAI_TJM - Iberia Regional"
+      },
+      {
+        "icao_airline": "ICE",
+        "title": "FFAI_TJM - Icelandair"
       },
       {
         "icao_airline": "IGO",
@@ -1696,6 +1876,10 @@
       {
         "icao_airline": "DKH",
         "title": "FFAI_TJM - Juneyao Airlines"
+      },
+      {
+        "icao_airline": "KQA",
+        "title": "FFAI_TJM - Kenya Airways"
       },
       {
         "icao_airline": "KLM",
@@ -1755,7 +1939,7 @@
       },
       {
         "icao_airline": "LPE",
-        "title": "FFAI_TJM - LATAM Per\u00c3\u00ba"
+        "title": "FFAI_TJM - LATAM Peru"
       },
       {
         "icao_airline": "LNI",
@@ -1782,6 +1966,10 @@
         "title": "FFAI_TJM - Lufthansa CityLine"
       },
       {
+        "icao_airline": "MAS",
+        "title": "FFAI_TJM - Malaysia Airlines"
+      },
+      {
         "icao_airline": "MXD",
         "title": "FFAI_TJM - Malindo Air"
       },
@@ -1796,6 +1984,10 @@
       {
         "icao_airline": "ASH",
         "title": "FFAI_TJM - Mesa Airlines (UAL)"
+      },
+      {
+        "icao_airline": "MEA",
+        "title": "FFAI_TJM - Middle East Airlines"
       },
       {
         "icao_airline": "WBA",
@@ -1816,6 +2008,18 @@
       {
         "icao_airline": "NSZ",
         "title": "FFAI_TJM - Norwegian Air Sweden"
+      },
+      {
+        "icao_airline": "LBT",
+        "title": "FFAI_TJM - Nouvelair Tunisie"
+      },
+      {
+        "icao_airline": "OMA",
+        "title": "FFAI_TJM - Oman Air"
+      },
+      {
+        "icao_airline": "PIA",
+        "title": "FFAI_TJM - Pakistan International Airlines"
       },
       {
         "icao_airline": "PGT",
@@ -1854,12 +2058,16 @@
         "title": "FFAI_TJM - Qatar Airways"
       },
       {
-        "icao_airline": "QTRX",
+        "icao_airline": "QTR",
         "title": "FFAI_TJM - Qatar Airways Cargo"
       },
       {
         "icao_airline": "QAF",
         "title": "FFAI_TJM - Qatar Amiri Flight"
+      },
+      {
+        "icao_airline": "RXA",
+        "title": "FFAI_TJM - Regional Express"
       },
       {
         "icao_airline": "RPA",
@@ -1876,6 +2084,10 @@
       {
         "icao_airline": "SDM",
         "title": "FFAI_TJM - Rossiya Airlines"
+      },
+      {
+        "icao_airline": "RBA",
+        "title": "FFAI_TJM - Royal Brunei"
       },
       {
         "icao_airline": "RYR",
@@ -1900,6 +2112,10 @@
       {
         "icao_airline": "SZS",
         "title": "FFAI_TJM - Scandinavian Airlines Ireland"
+      },
+      {
+        "icao_airline": "TGW",
+        "title": "FFAI_TJM - Scoot"
       },
       {
         "icao_airline": "CDG",
@@ -1956,6 +2172,14 @@
       {
         "icao_airline": "CQH",
         "title": "FFAI_TJM - Spring Airlines"
+      },
+      {
+        "icao_airline": "SCX",
+        "title": "FFAI_TJM - Sun Country Airlines"
+      },
+      {
+        "icao_airline": "SXS",
+        "title": "FFAI_TJM - SunExpress"
       },
       {
         "icao_airline": "YZR",
@@ -2026,11 +2250,15 @@
         "title": "FFAI_TJM - TUI fly Nordic"
       },
       {
+        "icao_airline": "TAR",
+        "title": "FFAI_TJM - Tunisair"
+      },
+      {
         "icao_airline": "THY",
         "title": "FFAI_TJM - Turkish Airlines"
       },
       {
-        "icao_airline": "THYX",
+        "icao_airline": "THY",
         "title": "FFAI_TJM - Turkish Airlines Cargo"
       },
       {
